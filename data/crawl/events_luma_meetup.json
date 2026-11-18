@@ -1,0 +1,840 @@
+[
+  {
+    "title": "Agentic Saturday | AAIF x Infosys | 3rd Edition",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "9:00 AM - 2:00 PM",
+    "venue": "Infosys Ltd, Building 12, Audi 01, Hosur Rd",
+    "area": "Electronic City",
+    "organizer": "AAIF Community Bengaluru (Agentic AI Foundation / Linux Foundation)",
+    "platform": "Luma",
+    "url": "https://luma.com/8ie7u3c8",
+    "domain": "AI & ML",
+    "tags": [
+      "Agentic AI",
+      "MCP",
+      "Open Source",
+      "Multi-agent"
+    ],
+    "price": null,
+    "perks": [
+      "Tea",
+      "Networking"
+    ],
+    "audience": "Developers, OSS contributors, DevOps, founders",
+    "description": "Community meetup on open-source agentic AI: MCP, production-ready agents, agent security and multi-agent orchestration. Host approval required.",
+    "confidence": "high"
+  },
+  {
+    "title": "Build with Agora - Bengaluru 2026 | Voice AI Hackathon",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "8:30 AM - 6:30 PM",
+    "venue": "Address shared on registration",
+    "area": null,
+    "organizer": "Agora, Murf AI & KNOTiC",
+    "platform": "Luma",
+    "url": "https://luma.com/2g5vcgrr",
+    "domain": "AI & ML",
+    "tags": [
+      "Voice AI",
+      "Conversational AI",
+      "Hackathon"
+    ],
+    "price": null,
+    "perks": [
+      "$3,000 prizes",
+      "Mentorship"
+    ],
+    "audience": "Developers and founders",
+    "description": "One-day in-person hackathon building real-time voice AI prototypes with Agora's Conversational AI tools.",
+    "confidence": "high"
+  },
+  {
+    "title": "Architecting Resilient Agents: Workflows, MCP & AWS",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "10:00 AM - 1:30 PM",
+    "venue": "ZopSmart, 24th Main Rd, Sector 2",
+    "area": "HSR Layout",
+    "organizer": "AWS User Group Bengaluru (with Temporal, Zopdev)",
+    "platform": "Luma",
+    "url": "https://luma.com/rvaw7bgu",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "AWS",
+      "Agentic AI",
+      "MCP",
+      "Durable Execution"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Cloud and AI engineers",
+    "description": "Talks, hands-on workshop and demos on agentic workflows, durable execution and cloud deployment automation. Also listed on meetup.com/awsugblr.",
+    "confidence": "high"
+  },
+  {
+    "title": "Fix My Itch Buildathon: Razorpay Rize x AILC",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": null,
+    "venue": "Address shared on registration",
+    "area": null,
+    "organizer": "Harkirat Singh & Razorpay Rize",
+    "platform": "Luma",
+    "url": "https://luma.com/iydarfi9",
+    "domain": "Startups",
+    "tags": [
+      "Buildathon",
+      "Vibe coding",
+      "MVP",
+      "Payments"
+    ],
+    "price": null,
+    "perks": [
+      "Razorpay test mode"
+    ],
+    "audience": "Builders",
+    "description": "Small in-person build day: pick a real everyday problem and leave with a working MVP using any AI tools.",
+    "confidence": "medium"
+  },
+  {
+    "title": "LLMOps in Production: Observability, Evals & Guardrails",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "9:30 AM - 2:00 PM",
+    "venue": "Cloudera, Summit, 80 Feet Rd",
+    "area": "Koramangala",
+    "organizer": "Future of Data: Bangalore",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/futureofdata-bangalore/events/317058082/",
+    "domain": "AI & ML",
+    "tags": [
+      "LLMOps",
+      "Evals",
+      "Observability",
+      "AI Security"
+    ],
+    "price": null,
+    "perks": [
+      "Lunch",
+      "Networking"
+    ],
+    "audience": "AI engineers, ML platform architects",
+    "description": "Talks on observability and evaluation for AI agents, AI security, and a panel on LLMOps successes and pitfalls.",
+    "confidence": "high"
+  },
+  {
+    "title": "KSUG.AI India #12: Cloud Native & AI Unlocked @ HPE",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "9:00 AM - 2:00 PM",
+    "venue": "Hewlett Packard Enterprise, IWF Campus",
+    "area": "Whitefield",
+    "organizer": "KSUG.AI India",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/ksug-in/events/316324548/",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "Kubernetes",
+      "AI Agents",
+      "Sandboxing",
+      "HPC"
+    ],
+    "price": null,
+    "perks": [
+      "Lunch",
+      "Networking"
+    ],
+    "audience": "Kubernetes and cloud-native engineers",
+    "description": "Hybrid meetup on Kubernetes networking, sandboxing AI agents, pod priority and AI/HPC platforms with speakers from LF, HPE, Docker, Collabnix.",
+    "confidence": "high"
+  },
+  {
+    "title": "Agent Builders Community Day Bengaluru",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "8:30 AM - 4:30 PM",
+    "venue": "Jawaharlal Nehru Planetarium, Sankey Rd",
+    "area": "High Grounds",
+    "organizer": "Agentic AI Community Bengaluru (UiPath Community)",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/agentic-ai-community-bengaluru/events/316972361/",
+    "domain": "AI & ML",
+    "tags": [
+      "Agentic AI",
+      "Automation",
+      "UiPath",
+      "RPA"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Automation and AI professionals (not students)",
+    "description": "Live rebuild of a business process into a working AI agent, plus UiPath ecosystem updates, customer showcases and community awards.",
+    "confidence": "high"
+  },
+  {
+    "title": "Apache Kafka Meetup Bangalore - Nov 2026",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "11:00 AM - 2:30 PM",
+    "venue": "Giniminds, Sumo Sapphire, 15th Cross Rd",
+    "area": "JP Nagar",
+    "organizer": "Bangalore Apache Kafka, Data & AI",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/bangalore-kafka-data-ai/events/317281461/",
+    "domain": "Data",
+    "tags": [
+      "Kafka",
+      "Streaming",
+      "RAG",
+      "AI Agents"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Data and streaming engineers",
+    "description": "In-person Kafka meetup: diskless Kafka-compatible brokers, real-time context for AI agents, and trusted agents with Kafka + RAG (Solace, Confluent, Giniminds).",
+    "confidence": "high"
+  },
+  {
+    "title": "BangPypers <> Pathfinder Community Meetup",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "10:30 AM - 2:00 PM",
+    "venue": "Automation Anywhere, Prestige Trade Tower, Palace Rd",
+    "area": "High Grounds",
+    "organizer": "BangPypers - Bangalore Python Users Group",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/bangpypers/events/312819340/",
+    "domain": "Dev & Web",
+    "tags": [
+      "Python",
+      "MCP",
+      "Robotics",
+      "AI"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Python developers",
+    "description": "Monthly Python meetup with talks on AI, MCP tools in Python and robot simulation, plus lightning talks.",
+    "confidence": "high"
+  },
+  {
+    "title": "Polyglot Day: Inferring AI",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "11:00 AM - 4:00 PM",
+    "venue": "IBM EGL D Block, Embassy Golf Links",
+    "area": "Domlur",
+    "organizer": "Polyglot Languages & Runtimes (Java, Cloud & AI)",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/polyglot-languages-runtimes-java-jvm-nodejs-swift/events/317201934/",
+    "domain": "Dev & Web",
+    "tags": [
+      "Java",
+      "Transformers",
+      "Agentic AI",
+      "JDK"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Developers",
+    "description": "Talks on Transformer architecture, agentic AI for Java root-cause analysis, AI content pipelines and JDK licensing.",
+    "confidence": "high"
+  },
+  {
+    "title": "React Meetup #110",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "9:30 AM - 2:30 PM",
+    "venue": "Mercari India, IndiQube Zinnia, Embassy TechVillage, ORR",
+    "area": "Bellandur",
+    "organizer": "ReactJS Bangalore",
+    "platform": "Luma",
+    "url": "https://luma.com/bktwnpb6",
+    "domain": "Dev & Web",
+    "tags": [
+      "React",
+      "Frontend",
+      "MCP-UI",
+      "Accessibility"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Frontend developers",
+    "description": "Talks on 3D in the browser, accessible AI interfaces, commerce animations, MCP-UI and ChatGPT apps. Luma registration mandatory (meetup.com/reactjs-bangalore/events/317251372).",
+    "confidence": "high"
+  },
+  {
+    "title": "Building AI Agents & Contributing Upstream with OpenSearch",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "10:30 AM - 1:30 PM",
+    "venue": "Blinkit office, Vaishnavi BVS Senate, Bannerghatta Rd",
+    "area": "Bilekahalli",
+    "organizer": "OpenSearch Project Bengaluru",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/opensearch-project-bengaluru/events/317285750/",
+    "domain": "Data",
+    "tags": [
+      "OpenSearch",
+      "Search",
+      "AI Agents",
+      "Open Source"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Search and backend engineers",
+    "description": "Talks on OpenSearch-powered AI agents, contributing a cross-cluster replication fix upstream, and cluster performance/cost.",
+    "confidence": "high"
+  },
+  {
+    "title": "AI - 'Made to Impact' | lululemon Open House",
+    "date": "2026-11-21",
+    "endDate": null,
+    "time": "11:00 AM - 1:00 PM",
+    "venue": "lululemon office, Block NXT Tower 2, Manyata Tech Park",
+    "area": "Nagavara",
+    "organizer": "Tech Insider Community (Bengaluru)",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/techinsider-bangalore/events/317378193/",
+    "domain": "AI & ML",
+    "tags": [
+      "Data",
+      "AI",
+      "Careers"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Professionals with 2+ yrs in AI/ML/data",
+    "description": "Open house on lululemon's global data and AI work and the India tech team; registrations reviewed.",
+    "confidence": "high"
+  },
+  {
+    "title": "AI Tools that Earn: a Hackathon by Apify",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": "8:00 AM - 6:00 PM",
+    "venue": "Zostel Plus Bangalore, Dodsworth Layout",
+    "area": "Whitefield",
+    "organizer": "Apify",
+    "platform": "Luma",
+    "url": "https://luma.com/apify-yc12",
+    "domain": "AI & ML",
+    "tags": [
+      "Hackathon",
+      "AI Agents",
+      "Web Scraping"
+    ],
+    "price": "Free",
+    "perks": [
+      "Breakfast",
+      "Lunch",
+      "Platform credits",
+      "$750 top prize"
+    ],
+    "audience": "Developers",
+    "description": "One-day hackathon building AI-powered Apify Actors people would pay for. Currently waitlist.",
+    "confidence": "high"
+  },
+  {
+    "title": "The Agentic Room",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": "10:30 AM - 6:00 PM",
+    "venue": "Primeco The Hub, Sarjapur Main Rd (Paytm office)",
+    "area": "Bellandur",
+    "organizer": "Paytm Community, Saniya Imroze & Abdullah Shahid",
+    "platform": "Luma",
+    "url": "https://luma.com/m3trcf1y",
+    "domain": "AI & ML",
+    "tags": [
+      "AI Agents",
+      "Buildathon",
+      "UX"
+    ],
+    "price": null,
+    "perks": [
+      "Pizza",
+      "Mentors",
+      "Awards"
+    ],
+    "audience": "Builders",
+    "description": "Build an AI agent in a day, then watch a random attendee try to use it unaided while judges observe.",
+    "confidence": "medium"
+  },
+  {
+    "title": "eChai's Startup Open House in Bengaluru",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": "11:00 AM - 1:00 PM",
+    "venue": "Founder Startup House, 1st A Main Rd, 7th Block",
+    "area": "Koramangala",
+    "organizer": "eChai Bangalore Startup Network",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/startupbangalore/events/317425869/",
+    "domain": "Startups",
+    "tags": [
+      "Founders",
+      "Networking"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Founders and startup enthusiasts",
+    "description": "Casual walk-in networking for founders and people in Bengaluru's startup scene.",
+    "confidence": "high"
+  },
+  {
+    "title": "Civo Navigate India 2026",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "9:00 AM - 7:00 PM",
+    "venue": "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center",
+    "area": "Whitefield",
+    "organizer": "Civo",
+    "platform": "Official site",
+    "url": "https://www.civo.com/navigate/india/2026",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "Kubernetes",
+      "Cloud",
+      "AI",
+      "DevOps"
+    ],
+    "price": null,
+    "perks": [
+      "Food",
+      "Workshops"
+    ],
+    "audience": "Cloud and DevOps engineers",
+    "description": "Day of expert talks, hands-on workshops and networking on AI, cloud, Kubernetes and DevOps. Free codes shared via meetup.com/disruptive-tech-india.",
+    "confidence": "high"
+  },
+  {
+    "title": "Reality Check: Bangalore Edition",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "10:00 AM - 4:00 PM",
+    "venue": "Bengaluru (venue shared on registration)",
+    "area": null,
+    "organizer": "noClue",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/buildwithnoclue_/events/316838363/",
+    "domain": "AI & ML",
+    "tags": [
+      "AI Products",
+      "Production AI",
+      "Founders"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "People who have shipped AI products",
+    "description": "Conversation-first meetup for builders who shipped AI products: what broke, costs, demo-vs-production gaps. No pitches. Also on Commudle.",
+    "confidence": "medium"
+  },
+  {
+    "title": "Open Lakehouse & AI",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "9:30 AM - 1:30 PM",
+    "venue": "Cloudera, Essae Vaishnavi Summit, 80 Feet Rd",
+    "area": "Koramangala",
+    "organizer": "Future of Data: Bangalore (PuppyGraph, Cloudera, OLake, VeloDB)",
+    "platform": "Luma",
+    "url": "https://luma.com/puppyg-rz8o",
+    "domain": "Data",
+    "tags": [
+      "Lakehouse",
+      "Apache Iceberg",
+      "Apache Ozone",
+      "Graph"
+    ],
+    "price": "Free",
+    "perks": [
+      "Networking"
+    ],
+    "audience": "Data engineers",
+    "description": "Technical talks and lightning talks on open lakehouses and AI, including Apache Ozone as storage for Iceberg. Luma registration required.",
+    "confidence": "high"
+  },
+  {
+    "title": "Java November Meetup: Every Java Object Pays a Tax",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "11:00 AM - 2:00 PM",
+    "venue": "Godrej Capital, CRN Chambers, Kasturba Rd",
+    "area": "Shanthala Nagar",
+    "organizer": "Bangalore Java User Group",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/bangalorejug/events/317323811/",
+    "domain": "Dev & Web",
+    "tags": [
+      "Java",
+      "JVM",
+      "Performance"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Java developers",
+    "description": "Hybrid session on Java object header overhead, compact object headers, and memory optimization with benchmarks.",
+    "confidence": "high"
+  },
+  {
+    "title": "AI Model Upgrades & Agentic Commerce",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "10:30 AM - 2:00 PM",
+    "venue": "Equal Experts India, Sabari Complex, Residency Rd",
+    "area": "Ashok Nagar",
+    "organizer": "Expert Talks Bengaluru",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/experttalks-bengaluru/events/317186060/",
+    "domain": "AI & ML",
+    "tags": [
+      "LLMs",
+      "Agentic Commerce",
+      "Payments"
+    ],
+    "price": null,
+    "perks": [
+      "Networking"
+    ],
+    "audience": "Engineers",
+    "description": "Two talks: handling AI model upgrades in apps, and AI agents as buyers (commerce protocols, payment mandates, agent verification).",
+    "confidence": "high"
+  },
+  {
+    "title": "GTM Rewind 2026: What Worked. What Flopped. What's Next.",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": null,
+    "venue": "Bengaluru (venue shared on approval)",
+    "area": null,
+    "organizer": "The AI Collective & Women in Product Marketing",
+    "platform": "Luma",
+    "url": "https://luma.com/aic-gtm-rewind",
+    "domain": "Startups",
+    "tags": [
+      "GTM",
+      "Founders",
+      "Pipeline"
+    ],
+    "price": null,
+    "perks": [
+      "Q1 pipeline plan template"
+    ],
+    "audience": "Founders and GTM leaders",
+    "description": "2.5-hour working session reviewing 2026 pipeline bets and building a Q1 2027 pipeline plan.",
+    "confidence": "high"
+  },
+  {
+    "title": "Engineering AI at Conversation Speed",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "10:00 AM - 1:00 PM",
+    "venue": "Primeco The Hub, Sarjapur Main Rd",
+    "area": "Bellandur",
+    "organizer": "Indian Data Club",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/indian-data-club/events/317407265/",
+    "domain": "AI & ML",
+    "tags": [
+      "Voice AI",
+      "Latency",
+      "Streaming",
+      "Workshop"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "AI engineers (bring laptop)",
+    "description": "Hands-on Voice AI Performance Lab on streaming, concurrency, cancellation and latency budgets for natural voice assistants.",
+    "confidence": "high"
+  },
+  {
+    "title": "The Unbundling: AI in Enterprise Financial Services",
+    "date": "2026-11-30",
+    "endDate": null,
+    "time": "10:00 AM - 5:00 PM",
+    "venue": "Bengaluru (venue shared on approval)",
+    "area": null,
+    "organizer": "Boundless Ventures",
+    "platform": "Luma",
+    "url": "https://luma.com/yq5ckix6",
+    "domain": "Enterprise",
+    "tags": [
+      "FinTech",
+      "Enterprise AI",
+      "Regulated AI"
+    ],
+    "price": null,
+    "perks": [
+      "$20K OpenAI credits"
+    ],
+    "audience": "AI founders and financial-institution leaders",
+    "description": "Closed-door day on getting AI approved, deployed and trusted in regulated financial firms.",
+    "confidence": "medium"
+  },
+  {
+    "title": "The Zero-Trust Enclave: Securing Clusters, Workloads, and Citizen Data",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "9:00 AM - 1:35 PM",
+    "venue": "Red Hat, Bagmane Constellation Tech Park, Carina East 10th Floor",
+    "area": "Doddanekkundi",
+    "organizer": "Confidential Computing Bangalore Community",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/confidential-computing-bangalore-community/events/317101247/",
+    "domain": "Security",
+    "tags": [
+      "Confidential Computing",
+      "Kubernetes",
+      "TEE",
+      "Zero Trust"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Security and platform engineers",
+    "description": "Year-end meetup on confidential Kubernetes, TEEs for containers, paravisors for confidential VMs, plus a panel.",
+    "confidence": "high"
+  },
+  {
+    "title": "AI Security: Strategy and Implementation",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "10:00 AM - 1:00 PM",
+    "venue": "Nokia L5, Manyata Tech Park",
+    "area": "Nagavara",
+    "organizer": "Deep Tech Stars x Nokia",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/deeptechstars/events/317408161/",
+    "domain": "Security",
+    "tags": [
+      "AI Security",
+      "Guardrails",
+      "AIDR",
+      "IAM"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Engineers (invite-only, limited seats)",
+    "description": "Session on end-to-end AI security for production: access controls, data protection, guardrails, model testing and AI detection & response.",
+    "confidence": "high"
+  },
+  {
+    "title": "Building AI Agents on Production-Ready Data!",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "11:00 AM - 2:00 PM",
+    "venue": "43 Workspace, 9th Main Rd, HRBR Layout",
+    "area": "Kalyan Nagar",
+    "organizer": "Data and AI Forum (Platformatory)",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/data-ai-forum/events/317450486/",
+    "domain": "Data",
+    "tags": [
+      "Context Engineering",
+      "AI Agents",
+      "Data Governance"
+    ],
+    "price": null,
+    "perks": [
+      "Food & beverages"
+    ],
+    "audience": "Data and AI engineers",
+    "description": "Meetup on context engineering, fresh governed data, and reliable agent execution and evaluation.",
+    "confidence": "high"
+  },
+  {
+    "title": "A Women in Automation Meet: Learn, Delegate, Lead",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "10:30 AM - 2:00 PM",
+    "venue": "UiPath, PE Onyx 6th floor, ORR",
+    "area": "Bellandur",
+    "organizer": "Agentic AI Community Bengaluru (UiPath)",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/agentic-ai-community-bengaluru/events/317407525/",
+    "domain": "AI & ML",
+    "tags": [
+      "RPA",
+      "Agentic AI",
+      "Women in Tech"
+    ],
+    "price": null,
+    "perks": [
+      "Lunch"
+    ],
+    "audience": "Women only",
+    "description": "First women-only UiPath Community meetup in Bengaluru: RPA hands-on workshop and the shift to agentic AI.",
+    "confidence": "high"
+  },
+  {
+    "title": "JavaFest 2026",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "9:00 AM - 6:00 PM",
+    "venue": "Christ University, Hosur Main Rd",
+    "area": "Koramangala",
+    "organizer": "Bangalore Java User Group",
+    "platform": "Official site",
+    "url": "https://javafest.org/register",
+    "domain": "Dev & Web",
+    "tags": [
+      "Java",
+      "JVM",
+      "Cloud",
+      "AI"
+    ],
+    "price": "Paid",
+    "perks": [
+      "Networking"
+    ],
+    "audience": "Java developers, architects, students",
+    "description": "Full-day Java community conference with talks on Java, JVM, cloud, architecture and AI. Early bird INR 800 (meetup.com/bangalorejug/events/316892990).",
+    "confidence": "high"
+  },
+  {
+    "title": "Enterprise AI - From Data to Action: Agentic AI and Enterprise Analytics",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "9:30 AM - 12:30 PM",
+    "venue": "Radisson Blu, Outer Ring Rd",
+    "area": "Marathahalli",
+    "organizer": "Bangalore AI Developers Group (AICamp) x Exasol",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/bangalore-ai-tech-talks/events/317443181/",
+    "domain": "Enterprise",
+    "tags": [
+      "Agentic AI",
+      "Analytics",
+      "Enterprise AI"
+    ],
+    "price": null,
+    "perks": [
+      "High tea",
+      "Networking"
+    ],
+    "audience": "AI and data practitioners",
+    "description": "Talks and live demos on agentic AI for enterprise analytics. Pre-registration on AICamp site required.",
+    "confidence": "high"
+  },
+  {
+    "title": "Lakehouse Build Workshop",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "3:00 PM onwards",
+    "venue": "OLake, HustleHub H203, 24th Main Rd",
+    "area": "HSR Layout",
+    "organizer": "OLake Community Events",
+    "platform": "Luma",
+    "url": "https://luma.com/olake-s4bn",
+    "domain": "Data",
+    "tags": [
+      "Lakehouse",
+      "Apache Iceberg",
+      "Data Engineering"
+    ],
+    "price": null,
+    "perks": [
+      "High tea",
+      "Hands-on lab"
+    ],
+    "audience": "Data engineers (bring laptop)",
+    "description": "Hands-on lab building a working lakehouse on one laptop, from database to open tables to queries.",
+    "confidence": "medium"
+  },
+  {
+    "title": "Bangalore dbt Meetup - December 2026",
+    "date": "2026-12-10",
+    "endDate": null,
+    "time": "5:30 PM - 8:30 PM",
+    "venue": "Fivetran, Redbrick Offices, RMZ Ecoworld",
+    "area": "Bellandur",
+    "organizer": "Bangalore dbt Meetup",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/bangalore-dbt-meetup/events/317351717/",
+    "domain": "Data",
+    "tags": [
+      "dbt",
+      "Analytics Engineering",
+      "SQL"
+    ],
+    "price": null,
+    "perks": [
+      "Food",
+      "Refreshments"
+    ],
+    "audience": "Analytics and data engineers",
+    "description": "India's first dbt Meetup: practitioner talks and a chance to meet dbt OSS and product engineers. Photo ID required.",
+    "confidence": "high"
+  },
+  {
+    "title": "Quarterly Large Scale Production Engineering (LSPE) Meetup",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "10:45 AM - 4:15 PM",
+    "venue": "Yahoo, Torrey Pines, EGL Business Park",
+    "area": "Domlur",
+    "organizer": "Large Scale Production Engineering - India Forum",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/lspe-in/events/313629005/",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "SRE",
+      "Production Engineering",
+      "Reliability"
+    ],
+    "price": null,
+    "perks": [
+      "Lunch",
+      "Tea & snacks"
+    ],
+    "audience": "SREs and production engineers",
+    "description": "Quarterly SRE meetup with keynote, talks, lunch and an open forum. Registration closes Dec 10.",
+    "confidence": "high"
+  },
+  {
+    "title": "27th Dot Net Bangalore Meetup",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "10:30 AM - 4:00 PM",
+    "venue": "emagine Expertise, 2A West Tower, Embassy Tech Village",
+    "area": "Devarabisanahalli",
+    "organizer": "DotNet Bangalore",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/dotnetblr/events/317286669/",
+    "domain": "Dev & Web",
+    "tags": [
+      ".NET",
+      "Azure",
+      "C#"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": ".NET developers",
+    "description": "27th community meetup of .NET professionals with talks on .NET and Microsoft tech.",
+    "confidence": "high"
+  },
+  {
+    "title": "Platform Engineering & AI Infrastructures",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "10:00 AM - 1:00 PM",
+    "venue": "Bengaluru (venue TBD)",
+    "area": null,
+    "organizer": "Platform Engineering & Resilience Engineering Meetup",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/platform-resilience-engineering-meetup-group/events/317302507/",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "Platform Engineering",
+      "AI Infrastructure",
+      "IDP"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Platform and DevOps engineers (150 seats)",
+    "description": "Final 2026 meetup on internal platforms and AI's role in future platforms. Venue not yet announced.",
+    "confidence": "medium"
+  }
+]

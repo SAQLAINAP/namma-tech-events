@@ -1,0 +1,27 @@
+{
+  "name": "Namma Tech Events",
+  "short_name": "Tech Events BLR",
+  "description": "276 upcoming tech events in Bengaluru: browse by domain, registration platform, date and perks, with registration links for every event.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#e04a2f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

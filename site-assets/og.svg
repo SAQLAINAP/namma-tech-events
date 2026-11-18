@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 -285 1200 1200">
+<rect y="-285" width="1200" height="1200" fill="#111111"/>
+<g transform="translate(80 80)"><rect width="88" height="88" rx="20" fill="#e04a2f"/><rect x="17" y="23" width="54" height="46" rx="7" fill="none" stroke="#fff" stroke-width="5.5"/><path d="M17 37h54M30 15v13M58 15v13" stroke="#fff" stroke-width="5.5" stroke-linecap="round"/><circle cx="33" cy="53" r="4.6" fill="#fff"/><circle cx="46" cy="53" r="4.6" fill="#fff" opacity=".55"/><circle cx="59" cy="53" r="4.6" fill="#fff" opacity=".55"/></g>
+<text x="80" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="92" fill="#ececE8" letter-spacing="-3">Namma Tech Events</text>
+<text x="82" y="370" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" fill="#a9a9a4">Every tech event in Bengaluru, by domain and registration platform</text>
+<g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" fill="#ececE8">
+<circle cx="92" cy="470" r="10" fill="#e8603c"/><text x="112" y="479">AI &amp; ML</text>
+<circle cx="262" cy="470" r="10" fill="#3d6be0"/><text x="282" y="479">Cloud</text>
+<circle cx="392" cy="470" r="10" fill="#2f9e77"/><text x="412" y="479">Data</text>
+<circle cx="512" cy="470" r="10" fill="#d9a514"/><text x="532" y="479">Dev</text>
+<circle cx="622" cy="470" r="10" fill="#c2414b"/><text x="642" y="479">Security</text>
+<circle cx="792" cy="470" r="10" fill="#8a63d2"/><text x="812" y="479">Web3</text>
+<circle cx="922" cy="470" r="10" fill="#2aa7b8"/><text x="942" y="479">Startups</text>
+</g>
+<rect x="80" y="540" width="1040" height="2" fill="#2a2a28"/>
+<text x="80" y="590" font-family="Menlo, monospace" font-size="22" fill="#74746f">LUMA · MEETUP · KONFHUB · HASGEEK · UNSTOP · OFFICIAL SITES</text>
+</svg>

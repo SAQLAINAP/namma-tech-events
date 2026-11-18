@@ -1,0 +1,891 @@
+[
+ {
+  "title": "IEEE CS Cyber Scape",
+  "date": "2026-11-18",
+  "endDate": "2026-11-19",
+  "time": "Reporting 09:00",
+  "venue": "New Horizon College of Engineering, Bengaluru",
+  "area": "Marathahalli",
+  "organizer": "IEEE Computer Society, NHCE Student Branch",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/ieee-cs-cyber-scape-new-horizon-college-of-engineering-1807068",
+  "domain": "Dev & Web",
+  "tags": [
+   "hackathon",
+   "research to prototype",
+   "students"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Prize pool Rs 21,000+"
+  ],
+  "audience": "Students (teams of 1-5)",
+  "description": "Hackathon where teams turn an existing research paper into a working prototype (Read-Research-Build-Pitch). Rs 100 per participant.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "Flutter Meetup (GDG Bangalore)",
+  "date": "2026-11-19",
+  "endDate": null,
+  "time": "18:30-21:30 IST",
+  "venue": "144, 22nd Main Road, Bengaluru 560102",
+  "area": "HSR Layout",
+  "organizer": "GDG Bangalore",
+  "platform": "GDG Community",
+  "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-flutter-meetup/",
+  "domain": "Dev & Web",
+  "tags": [
+   "Flutter",
+   "mobile",
+   "meetup"
+  ],
+  "price": null,
+  "perks": [
+   "Dinner and networking"
+  ],
+  "audience": "Flutter developers",
+  "description": "Flutter community meetup with talks, a fireside chat with Flutter project co-founder Eric and open Q&A.",
+  "confidence": "high",
+  "seenOn": "gdg.community.dev chapter page + event page"
+ },
+ {
+  "title": "Vidyutspanda'26 - Hardware Hackathon",
+  "date": "2026-11-19",
+  "endDate": "2026-11-20",
+  "time": null,
+  "venue": "Dayananda Sagar University Main Campus, Harohalli, Kanakapura Road, Bengaluru 562112",
+  "area": "Kanakapura Road",
+  "organizer": "Dept. of ECE, Dayananda Sagar University (Electroblitz Club, IEEE DSU)",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/vidyutspanda-hardware-hackathon-dayananda-sagar-university-bengaluru-karnataka-1780955",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "hardware hackathon",
+   "electronics",
+   "prototyping",
+   "36-hour"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Participation certificates",
+   "Goodies and industry-expert meetup",
+   "Food and refreshments",
+   "Transport from Silk Institute Metro for shortlisted teams"
+  ],
+  "audience": "Students from all colleges (teams of 3)",
+  "description": "36-hour hardware innovation challenge to build working prototypes solving real-world problems. Rs 300 per team.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "Rootconf 2026 Annual Conference: Platforms for AI, and AI for Platforms",
+  "date": "2026-11-20",
+  "endDate": "2026-11-21",
+  "time": "09:30-17:45 IST (Day 2 10:00-17:30)",
+  "venue": "TERI Auditorium, 4th Main Road, Domlur II Stage, Bengaluru 560071",
+  "area": "Domlur",
+  "organizer": "Hasgeek / Rootconf",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/rootconf/2026/",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "platform engineering",
+   "SRE",
+   "DevOps",
+   "MLOps",
+   "AI infra"
+  ],
+  "price": "Paid",
+  "perks": [
+   "One year Rootconf membership access",
+   "Includes Quantization workshop (22 Nov) and Chaos engineering workshop (28 Nov)",
+   "Members-only AI for Platforms meetup (12 Dec)",
+   "Livestream access"
+  ],
+  "audience": "Platform engineers, SREs, DevOps, security, MLOps and data-infra engineers, engineering leaders",
+  "description": "Rootconf's annual conference on platforms for AI (inference, model serving, agent workloads) and AI for platforms (code review, incident investigation, K8s upgrades). Hybrid with livestream; attendance via Rootconf membership.",
+  "confidence": "high",
+  "seenOn": "hasgeek.com homepage + event page"
+ },
+ {
+  "title": "droidCon India 2026",
+  "date": "2026-11-20",
+  "endDate": null,
+  "time": "08:00-18:00 IST",
+  "venue": "Conrad Bengaluru, Kensington Road, Halasuru, Bengaluru",
+  "area": "Halasuru",
+  "organizer": "droidcon Global",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/india-droidcon",
+  "domain": "Dev & Web",
+  "tags": [
+   "Android",
+   "Kotlin",
+   "Jetpack Compose",
+   "mobile"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Meet Googlers and Google Developer Experts",
+   "Workshops & codelabs",
+   "Combi ticket with flutterCon India available"
+  ],
+  "audience": "Android developers",
+  "description": "Second edition of droidCon India with 40+ technical Android talks across 4 parallel tracks plus workshops and codelabs.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data + dev.events"
+ },
+ {
+  "title": "flutterCon India 2026",
+  "date": "2026-11-21",
+  "endDate": null,
+  "time": null,
+  "venue": "Conrad Bengaluru, Kensington Road, Halasuru, Bengaluru",
+  "area": "Halasuru",
+  "organizer": "droidcon Global",
+  "platform": "Official site",
+  "url": "https://india.fluttercon.dev",
+  "domain": "Dev & Web",
+  "tags": [
+   "Flutter",
+   "Dart",
+   "mobile",
+   "cross-platform"
+  ],
+  "price": "Paid",
+  "perks": [],
+  "audience": "Flutter developers",
+  "description": "Flutter conference held the day after droidCon India; a 2-day droidCon + flutterCon combi ticket is sold on Konfhub.",
+  "confidence": "medium",
+  "seenOn": "dev.events, droidCon Konfhub combi ticket, sessionize/luminik listings"
+ },
+ {
+  "title": "DevFest Bengaluru 2026 (GDG Cloud Bengaluru)",
+  "date": "2026-11-21",
+  "endDate": null,
+  "time": "09:00-18:00 IST",
+  "venue": "Google Ananta, Mahadevapura, Bengaluru",
+  "area": "Mahadevapura",
+  "organizer": "GDG Cloud Bengaluru",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/devfest-blr-2026",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "Google Cloud",
+   "GenAI",
+   "agents",
+   "Kubernetes",
+   "DevOps",
+   "DevFest"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Morning tea/coffee + munchies",
+   "Lunch",
+   "Evening hi-tea",
+   "Exclusive DevFest merchandise",
+   "Access to all sessions"
+  ],
+  "audience": "Developers, cloud architects, AI builders, engineering leaders",
+  "description": "GDG Cloud Bengaluru's flagship DevFest with deep dives on Google Cloud, GenAI & agentic systems, Kubernetes and cloud-native architecture.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data + gdg.community.dev chapter page"
+ },
+ {
+  "title": "Break a model, then fix it: Hands-on workshop on shrinking open models (Rootconf)",
+  "date": "2026-11-22",
+  "endDate": null,
+  "time": "10:30-15:00 IST",
+  "venue": "InMobi Technologies, 7th Floor, Nucleus, Delta Block, Embassy Tech Square, Marathahalli-Sarjapur ORR, Bengaluru 560103",
+  "area": "Kadubeesanahalli",
+  "organizer": "Hasgeek / Rootconf",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/rootconf/quantization-workshop/",
+  "domain": "AI & ML",
+  "tags": [
+   "quantization",
+   "LLM",
+   "PyTorch",
+   "workshop",
+   "MLOps"
+  ],
+  "price": "Paid",
+  "perks": [
+   "One year entry to Rootconf programmes (membership)"
+  ],
+  "audience": "Platform, infra, MLOps, SRE and serving engineers; basic Python assumed",
+  "description": "Hands-on workshop writing a quantiser in PyTorch and evaluating Qwen3 0.6B to fit models to available hardware. Members-only, 30 in-person seats, hybrid access.",
+  "confidence": "high",
+  "seenOn": "hasgeek.com homepage + event page"
+ },
+ {
+  "title": "WordCamp Bengaluru 2026",
+  "date": "2026-11-22",
+  "endDate": null,
+  "time": "08:00-17:30 IST",
+  "venue": "St. Joseph's Boys' High School, 27 Museum Road, Ashok Nagar, Bengaluru 560025",
+  "area": "Ashok Nagar",
+  "organizer": "WordCamp Bengaluru (WordPress community)",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/wordcamp-bengaluru",
+  "domain": "Dev & Web",
+  "tags": [
+   "WordPress",
+   "open web",
+   "AI",
+   "CMS"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Lunch",
+   "Coffee breaks",
+   "Swag",
+   "Place at Contributor Day (21 Nov, Bangalore International Centre)",
+   "Friend of #WCBLR ticket adds networking dinner"
+  ],
+  "audience": "Developers, designers, content people, founders, students",
+  "description": "One-day WordPress and open web conference themed WordPress and AI, with two tracks, a workshop and a free Contributor Day on 21 Nov. General admission Rs 800.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page + bengaluru.wordcamp.org"
+ },
+ {
+  "title": "The Product (Un)Conference '26 Builder's Day",
+  "date": "2026-11-22",
+  "endDate": null,
+  "time": "09:00-21:00 IST",
+  "venue": "Bengaluru (venue shared with shortlisted builders)",
+  "area": null,
+  "organizer": "Team TPF",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/the-product-unconference-26-builders-day",
+  "domain": "AI & ML",
+  "tags": [
+   "buildathon",
+   "AI",
+   "product",
+   "founders"
+  ],
+  "price": "Free",
+  "perks": [
+   "1M+ in credits",
+   "Mentors on the floor"
+  ],
+  "audience": "Builders (invite-only, shortlisted)",
+  "description": "Part of Product (Un)Conference '26: talks, a panel and a four-hour AI buildathon on real problems from founders, operators and VCs, with same-evening demos. Request to join is free; shortlisted builders pay a nominal fee.",
+  "confidence": "medium",
+  "seenOn": "Konfhub event page data (venue not published)"
+ },
+ {
+  "title": "Build with Mistral AI",
+  "date": "2026-11-22",
+  "endDate": null,
+  "time": "17:30-22:30 IST",
+  "venue": "Tapas Reading Cafe, 2nd Floor, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru 560102",
+  "area": "HSR Layout",
+  "organizer": "Nikhil Bhima (Mistral AI Ambassador)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/build-with-mistral-ai/80003181660302",
+  "domain": "AI & ML",
+  "tags": [
+   "Mistral",
+   "LLM",
+   "coworking",
+   "agents",
+   "OCR"
+  ],
+  "price": null,
+  "perks": [
+   "Free Mistral AI credits",
+   "Optional demo slot"
+  ],
+  "audience": "Experienced builders who have shipped projects",
+  "description": "Community coworking evening building with Mistral AI models (voice, agents, OCR, multimodal); 25 seats, Luma registration subject to approval.",
+  "confidence": "high",
+  "seenOn": "allevents.in + dev.events"
+ },
+ {
+  "title": "Data & AI: Shaping the Future of Industry and Higher Education",
+  "date": "2026-11-23",
+  "endDate": null,
+  "time": "08:00-18:00 IST",
+  "venue": "Conrad Bengaluru, 25/3 Kensington Road, Bengaluru 560008",
+  "area": "Halasuru",
+  "organizer": null,
+  "platform": "Eventbrite",
+  "url": "https://www.eventbrite.com/e/data-ai-shaping-the-future-of-industry-and-higher-education-tickets-2003458440126",
+  "domain": "Data",
+  "tags": [
+   "data",
+   "AI",
+   "education",
+   "skills"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Industry and academic leaders",
+  "description": "In-person forum on how data and AI are shaping education, skills and careers. Tickets marked sold out.",
+  "confidence": "medium",
+  "seenOn": "Eventbrite search + event page (year inferred)"
+ },
+ {
+  "title": "Civo Navigate India 2026 (Sovereignty and AI Edition)",
+  "date": "2026-11-24",
+  "endDate": null,
+  "time": "09:00-19:00 IST",
+  "venue": "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center, Hoodi, Whitefield, Bengaluru 560048",
+  "area": "Whitefield",
+  "organizer": "Civo",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/civo-navigate-india",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "cloud",
+   "cloud-native",
+   "AI",
+   "data sovereignty"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Food and refreshments",
+   "Exclusive Civo Navigate merchandise",
+   "Networking"
+  ],
+  "audience": "Cloud-native engineers, platform architects, AI practitioners, tech leaders",
+  "description": "Civo's cloud and AI conference for 1,000+ engineers with expert talks, technical workshops and networking on AI, cloud and data sovereignty.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data + allevents.in + dev.events"
+ },
+ {
+  "title": "Small Business AI Builder Tour: Bangalore",
+  "date": "2026-11-24",
+  "endDate": null,
+  "time": "08:30-19:00 IST",
+  "venue": "Hilton Bengaluru Embassy Manyata Business Park, Outer Ring Road, Bengaluru",
+  "area": "Hebbal / Manyata",
+  "organizer": "Bluehost",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/small-business-ai-builder-tour-bangalore-india/100002003680086075",
+  "domain": "AI & ML",
+  "tags": [
+   "AI",
+   "small business",
+   "workshops",
+   "demos"
+  ],
+  "price": "Free",
+  "perks": [
+   "Coffee, lunch and drinks",
+   "AI breakout tables",
+   "Unblock Your Build feedback session",
+   "Booth demos and giveaways",
+   "AI Innovation Awards (MacBook Pro prize)"
+  ],
+  "audience": "Entrepreneurs, developers, creators, local AI builders",
+  "description": "Free in-person day of live demos, hands-on workshops, expert feedback and networking for small-business AI builders.",
+  "confidence": "high",
+  "seenOn": "allevents.in"
+ },
+ {
+  "title": "WeAreDevelopers Conference India 2026",
+  "date": "2026-11-25",
+  "endDate": "2026-11-26",
+  "time": null,
+  "venue": "Bangalore International Exhibition Centre (BIEC), Bengaluru",
+  "area": "Madavara",
+  "organizer": "WeAreDevelopers",
+  "platform": "Official site",
+  "url": "https://www.wearedevelopers.com/conference-india",
+  "domain": "Dev & Web",
+  "tags": [
+   "developers",
+   "AI",
+   "agents",
+   "MCP",
+   "full-stack"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Talks, workshops, live coding",
+   "Tech expo",
+   "Coding challenges",
+   "After-show party"
+  ],
+  "audience": "Developers, AI builders, architects, CTOs, engineering managers",
+  "description": "First India edition of WeAreDevelopers with 100+ speakers and 3,000+ builders on building and running software in the AI era.",
+  "confidence": "medium",
+  "seenOn": "official site + dev.events (venue from WeAreDevelopers magazine)"
+ },
+ {
+  "title": "Next Generation Testing & AI Bangalore",
+  "date": "2026-11-26",
+  "endDate": null,
+  "time": "08:30-18:00 IST",
+  "venue": "Radisson Blu Atria, 1 Palace Road, Bengaluru 560001",
+  "area": "Palace Road",
+  "organizer": "Navigo Seminars",
+  "platform": "Eventbrite",
+  "url": "https://www.eventbrite.co.uk/e/next-generation-testing-ai-bangalore-tickets-1993594225996",
+  "domain": "Dev & Web",
+  "tags": [
+   "software testing",
+   "QA",
+   "test automation",
+   "AI"
+  ],
+  "price": "Paid",
+  "perks": [],
+  "audience": "Testing and quality engineering professionals",
+  "description": "One-day conference on AI-augmented test automation, continuous validation and intelligent observability, co-located with the Indian Testing Awards 2026.",
+  "confidence": "high",
+  "seenOn": "Eventbrite + allevents.in"
+ },
+ {
+  "title": "DecodeX '26 - Offline Grand Finale",
+  "date": "2026-11-27",
+  "endDate": "2026-11-28",
+  "time": null,
+  "venue": "BMS Institute of Technology & Management, Bengaluru",
+  "area": "Yelahanka",
+  "organizer": "IEEE Signal Processing Society, BMSIT&M Student Branch",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+  "domain": "Security",
+  "tags": [
+   "CTF",
+   "signal processing",
+   "ML"
+  ],
+  "price": null,
+  "perks": [
+   "Prizes: Rs 25,000 / 15,000 / 10,000"
+  ],
+  "audience": "Students",
+  "description": "National-level CTF-style signal processing competition; online qualifier on 22 Nov, offline finale at BMSIT&M on 27-28 Nov.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "Women in Systems: The minds behind the machinery",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "10:00-13:30 IST",
+  "venue": "Microsoft, Prestige Business Park, Marathahalli-Sarjapur ORR, Bellandur, Bengaluru 560103",
+  "area": "Bellandur",
+  "organizer": "Bengaluru Systems Meetup",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/bengalurusystemsmeetup/women-in-systems2/",
+  "domain": "Dev & Web",
+  "tags": [
+   "systems",
+   "databases",
+   "distributed systems",
+   "women in tech",
+   "observability"
+  ],
+  "price": null,
+  "perks": [
+   "Travel grants (esp. tier 2/3 cities)"
+  ],
+  "audience": "Systems researchers and practitioners; open to all (all-women speakers)",
+  "description": "Lightning talks and a panel on databases, distributed systems, cloud infra, security, reliability and how agentic workloads affect system design.",
+  "confidence": "high",
+  "seenOn": "hasgeek.com homepage + event page"
+ },
+ {
+  "title": "Chaos Engineering for stateful applications on Kubernetes (Rootconf workshop)",
+  "date": "2026-11-28",
+  "endDate": "2026-11-29",
+  "time": "14:00-18:00 IST both days",
+  "venue": "Aerospike India, Block A, 4th Floor, Indiqube Amber, Embassy Golf Links Business Park, Domlur, Bengaluru 560071",
+  "area": "Domlur",
+  "organizer": "Hasgeek / Rootconf",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/rootconf/chaos-engineering-workshop/",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "chaos engineering",
+   "Kubernetes",
+   "PostgreSQL",
+   "CloudNativePG",
+   "SRE"
+  ],
+  "price": "Paid",
+  "perks": [
+   "One year entry to Rootconf programmes (membership)"
+  ],
+  "audience": "Platform, SRE, DevOps and database engineers running stateful workloads on Kubernetes",
+  "description": "Hands-on workshop testing failover, recovery and durability of PostgreSQL on Kubernetes using Chaos Mesh, Prometheus/Grafana and Jepsen. Members/Rootconf ticket holders only; hybrid.",
+  "confidence": "high",
+  "seenOn": "hasgeek.com homepage + event page"
+ },
+ {
+  "title": "WITI Year-End Meet-Up 2026",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "10:00-13:00 IST",
+  "venue": "Dialogues Cafe, 80 Feet Road, 4th Block, Koramangala, Bengaluru",
+  "area": "Koramangala",
+  "organizer": "Women in Tech India (WITI)",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/witiyear-end-meet-up-2026",
+  "domain": "Enterprise",
+  "tags": [
+   "women in tech",
+   "community",
+   "networking"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Lunch",
+   "Pre-loved gift exchange"
+  ],
+  "audience": "Women in tech community members and allies",
+  "description": "Relaxed year-end networking meetup of the Women in Tech India community with icebreakers and conversations; no presentations.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data"
+ },
+ {
+  "title": "The Messy UX Conference 2026",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "08:00-17:30 IST",
+  "venue": "Trinity Whitefield, Road No. 1, EPIP Zone, Whitefield, Bengaluru",
+  "area": "Whitefield",
+  "organizer": "DesignShots",
+  "platform": "Allevents",
+  "url": "https://designshots.org/conference",
+  "domain": "Product & Design",
+  "tags": [
+   "UX",
+   "design",
+   "case studies"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Designers and product people",
+  "description": "Full-day conference about the real stories behind design work: failures, pivots, trade-offs and lessons left out of polished case studies.",
+  "confidence": "high",
+  "seenOn": "allevents.in + dev.events"
+ },
+ {
+  "title": "TEXPLORE 2026 - IEEE Project Expo",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": null,
+  "venue": "CMR Institute of Technology, Bengaluru",
+  "area": "Whitefield / AECS Layout",
+  "organizer": "CMRIT IEEE Student Branch & IEEE EDS Chapter",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/texplore-cmr-institute-of-technology-cmrit-bangalore-1813472",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "project expo",
+   "robotics",
+   "drones",
+   "IEEE",
+   "students"
+  ],
+  "price": "Free",
+  "perks": [
+   "Certificates for all participants",
+   "Goodies for best projects"
+  ],
+  "audience": "Students (teams up to 4)",
+  "description": "IEEE project expo for students to showcase innovative projects across robotics, drones, healthcare, AI and more.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "The Fifth Elephant Winter Edition 2026",
+  "date": "2026-12-04",
+  "endDate": "2026-12-05",
+  "time": "09:00-18:00 IST",
+  "venue": "TERI, 4th Main Road, Domlur II Stage, Bengaluru 560071",
+  "area": "Domlur",
+  "organizer": "Hasgeek / The Fifth Elephant",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/fifthelephant/winter-2026/",
+  "domain": "Data",
+  "tags": [
+   "data science",
+   "analytics",
+   "statistics",
+   "data journalism"
+  ],
+  "price": "Paid",
+  "perks": [
+   "One year membership access to Fifth Elephant programmes",
+   "Livestream for annual members"
+  ],
+  "audience": "Analysts, data scientists, statisticians, researchers, journalists, policy and non-profit data practitioners",
+  "description": "Two-day edition on how practitioners investigate data and turn findings into decisions: practitioner talks, showcases, poster sessions, BoFs and a problem wall.",
+  "confidence": "high",
+  "seenOn": "hasgeek.com homepage + event page"
+ },
+ {
+  "title": "JavaFest 2026",
+  "date": "2026-12-05",
+  "endDate": null,
+  "time": "09:00-18:00 IST",
+  "venue": "Christ University, Hosur Main Road, Bengaluru",
+  "area": "Hosur Road",
+  "organizer": "Bangalore Java User Group (bangalorejug)",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/javafest-2026",
+  "domain": "Dev & Web",
+  "tags": [
+   "Java",
+   "AI with Java",
+   "JUG",
+   "workshops"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Access to all talks & workshops",
+   "Snacks",
+   "Lunch",
+   "Goodies",
+   "Networking"
+  ],
+  "audience": "Java developers and AI enthusiasts",
+  "description": "Community-driven Java conference with theme 'Java At Scale' and focus on AI with Java; talks chosen by the community.",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data"
+ },
+ {
+  "title": "DevFest Bengaluru 2026 (GDG Bangalore)",
+  "date": "2026-12-05",
+  "endDate": null,
+  "time": "09:00-18:00 IST",
+  "venue": "Google Ananta, Mahadevapura, Bengaluru",
+  "area": "Mahadevapura",
+  "organizer": "GDG Bangalore",
+  "platform": "Konfhub",
+  "url": "https://konfhub.com/devfestblr26",
+  "domain": "AI & ML",
+  "tags": [
+   "DevFest",
+   "Google",
+   "AI",
+   "workshops",
+   "GDG"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Hi-tea + lunch",
+   "Swag pack",
+   "Hands-on workshop tickets available",
+   "Champions ticket: priority check-in, reserved seats"
+  ],
+  "audience": "Developers, designers, founders, students, tech enthusiasts",
+  "description": "GDG Bengaluru's annual DevFest with technical talks, hands-on workshops and a beginner Build with AI track (AI Studio, Stitch, Antigravity).",
+  "confidence": "high",
+  "seenOn": "Konfhub event page data + gdg.community.dev/gdg-bangalore"
+ },
+ {
+  "title": "PromptWars x Quad Bengaluru",
+  "date": "2026-12-05",
+  "endDate": null,
+  "time": "09:30-17:00 IST",
+  "venue": "Quad AI School of Technology and Business, 27th Main Road, HSR Layout, Bengaluru 560102",
+  "area": "HSR Layout",
+  "organizer": "Hack2Skill & Google for Developers, hosted by Quad AI",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
+  "domain": "AI & ML",
+  "tags": [
+   "vibe coding",
+   "hackathon",
+   "GenAI",
+   "Gemini",
+   "fraud"
+  ],
+  "price": null,
+  "perks": [
+   "Prize pool Rs 20,000"
+  ],
+  "audience": "Students, freshers, professionals; no coding background needed",
+  "description": "One-day solo AI vibe-coding hackathon: one surprise problem (theme: Fraud Shield vs AI scams), three hours to build. Hack2Skill registration also required.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "Code Battle (RoboFiesta, RVITM)",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management, Bengaluru",
+  "area": "JP Nagar",
+  "organizer": "RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/code-battle-robofiesta-rv-institute-of-technology-and-management-karnataka-1775199",
+  "domain": "Dev & Web",
+  "tags": [
+   "competitive coding",
+   "students"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Prize pool Rs 3,500"
+  ],
+  "audience": "Students",
+  "description": "Offline competitive coding contest at RoboFiesta; Rs 100 registration fee.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "Capture The Flag (RoboFiesta, RVITM)",
+  "date": "2026-12-10",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management, Bengaluru",
+  "area": "JP Nagar",
+  "organizer": "RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/capture-the-flag-robofiesta-rv-institute-of-technology-and-management-karnataka-1776174",
+  "domain": "Security",
+  "tags": [
+   "CTF",
+   "ethical hacking",
+   "cyber forensics"
+  ],
+  "price": "Paid",
+  "perks": [
+   "Prize pool Rs 3,000"
+  ],
+  "audience": "Students",
+  "description": "Offline three-level story-based CTF on ethical hacking and cyber-forensics; Rs 100 registration fee.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "December 2026 Rustacean Meetup",
+  "date": "2026-12-12",
+  "endDate": null,
+  "time": "10:30-13:30 IST",
+  "venue": "Venue TBD, Bengaluru",
+  "area": null,
+  "organizer": "Rust Bangalore",
+  "platform": "HasGeek",
+  "url": "https://hasgeek.com/rustbangalore/december-2026-rustacean-meetup/",
+  "domain": "Dev & Web",
+  "tags": [
+   "Rust",
+   "meetup"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Anyone interested in Rust",
+  "description": "In-person Rust Bangalore community meetup with talks on Rust projects, libraries and experiences.",
+  "confidence": "medium",
+  "seenOn": "hasgeek.com homepage + event page (venue TBD)"
+ },
+ {
+  "title": "StarForge: 24-Hour National Level Hackathon",
+  "date": "2026-12-12",
+  "endDate": "2026-12-13",
+  "time": null,
+  "venue": "BMS Institute of Technology and Management, Bengaluru",
+  "area": "Yelahanka",
+  "organizer": "BMS Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "hackathon",
+   "space tech",
+   "hardware",
+   "software"
+  ],
+  "price": "Free",
+  "perks": [
+   "Rs 65,000 cash prize pool",
+   "Space-themed merchandise",
+   "Certification",
+   "Sponsor learning credits"
+  ],
+  "audience": "Students (teams of 3-4, at least one woman)",
+  "description": "Space-themed 24-hour offline hackathon with software and hardware tracks after an online screening round.",
+  "confidence": "medium",
+  "seenOn": "Unstop API/listing (exact offline dates inferred from listing end date)"
+ },
+ {
+  "title": "PromptEd 2026 Finale (Teaching the Tech Generation)",
+  "date": "2027-01-27",
+  "endDate": null,
+  "time": null,
+  "venue": "Indian Institute of Management Bangalore, Bannerghatta Road, Bengaluru",
+  "area": "Bannerghatta Road",
+  "organizer": "CSITM, IIM Bangalore with Memoric AI",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/prompted-2026-iim-bangalore-1805783",
+  "domain": "AI & ML",
+  "tags": [
+   "generative AI",
+   "education",
+   "competition"
+  ],
+  "price": null,
+  "perks": [
+   "Prizes up to Rs 35,000",
+   "Certificates for all finalists"
+  ],
+  "audience": "Students, faculty, researchers, industry professionals",
+  "description": "International GenAI-in-management-education competition; submissions by 15 Dec 2026, finalists present at IIM Bangalore on 27 Jan 2027.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing"
+ },
+ {
+  "title": "StartupLive Bangalore'27",
+  "date": "2027-01-30",
+  "endDate": "2027-01-31",
+  "time": "09:00-18:00",
+  "venue": "CMS Business School, 17 Seshadri Rd, Gandhi Nagar, Bengaluru 560009",
+  "area": "Gandhi Nagar",
+  "organizer": "StartupLive",
+  "platform": "Eventbrite",
+  "url": "https://www.eventbrite.at/e/startuplive-bangalore27-tickets-1996618758454",
+  "domain": "Startups",
+  "tags": [
+   "startup weekend",
+   "pitching",
+   "mentoring"
+  ],
+  "price": null,
+  "perks": [
+   "Networking included for all ticket types",
+   "Mentors",
+   "Pre-event call for startup registrants"
+  ],
+  "audience": "Founders and professionals in tech, design, marketing and business",
+  "description": "Two-day in-person startup event of innovation, collaboration and competition with Startup, Innovator and Visitor roles.",
+  "confidence": "medium",
+  "seenOn": "Eventbrite search + event page (listing text mentions Vienna)"
+ },
+ {
+  "title": "Inceptrix 3.0",
+  "date": "2027-02-19",
+  "endDate": "2027-02-20",
+  "time": null,
+  "venue": "JAIN (Deemed-to-be University), Faculty of Engineering & Technology, Jakkasandra, Kanakapura Road, Bengaluru 562112",
+  "area": "Kanakapura Road",
+  "organizer": "Tech Council, FET, JAIN (Deemed-to-be University)",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
+  "domain": "Dev & Web",
+  "tags": [
+   "hackathon",
+   "innovation",
+   "students"
+  ],
+  "price": null,
+  "perks": [
+   "Prizes: Rs 1,25,000 / 75,000 / 50,000"
+  ],
+  "audience": "Students (teams of 4-5, at least one woman)",
+  "description": "Flagship innovation and technology hackathon of JAIN University; online rounds then the offline hackathon on 19-20 Feb 2027.",
+  "confidence": "high",
+  "seenOn": "Unstop API/listing + dev.events"
+ }
+]

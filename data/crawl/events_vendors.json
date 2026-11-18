@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Build with IBM Bob: It's More Than Just a Vibe (IBM-powered pre-event)",
+    "date": "2026-11-22",
+    "endDate": null,
+    "time": "09:30 AM - 03:30 PM",
+    "venue": "Hilton Bengaluru Embassy Manyata Business Park",
+    "area": "Manyata Tech Park / Hebbal",
+    "organizer": "IBM (with WeAreDevelopers)",
+    "platform": "Official site",
+    "url": "https://www.wearedevelopers.com/conference-india/build-with-bob",
+    "domain": "AI & ML",
+    "tags": ["IBM Bob", "AI coding", "SDLC", "hands-on labs", "certification", "DevOps"],
+    "price": null,
+    "perks": ["IBM Bob event merchandise", "IBM Bob certifications", "Build with IBM Bob Challenge", "live demos", "early WeAreDevelopers badge pickup"],
+    "audience": "Developers, architects, DevOps practitioners, SREs, engineering leaders",
+    "description": "IBM developer takeover day ahead of WeAreDevelopers Conference India with hands-on labs on using IBM Bob across the software development lifecycle (modernization, testing, debugging, workflow automation). Registration form is on the page.",
+    "confidence": "high",
+    "seenOn": "wearedevelopers.com (via WebSearch for IBM Bengaluru events)"
+  },
+  {
+    "title": "AWS re:Invent Watch & Build Party Bengaluru",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "Doors open 09:30 IST",
+    "venue": "Central Auditorium, Amity University Bengaluru",
+    "area": null,
+    "organizer": "AWS Student Builder Group, Amity University Bengaluru",
+    "platform": "Other",
+    "url": "https://aub-aws-reinvent.pages.dev/",
+    "domain": "Cloud & DevOps",
+    "tags": ["AWS", "re:Invent", "watch party", "hands-on build", "cloud"],
+    "price": null,
+    "perks": [],
+    "audience": "Developers, architects and cloud leaders (250 seats, first come first served; bring a laptop)",
+    "description": "Morning watch session of re:Invent 2026 launches followed by an afternoon hands-on build session using the new announcements. Community/student-run (not on aws.amazon.com); registration via Google Form linked from the page.",
+    "confidence": "medium",
+    "seenOn": "WebSearch (aub-aws-reinvent.pages.dev)"
+  }
+]

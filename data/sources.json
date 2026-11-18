@@ -1,0 +1,657 @@
+{
+ "cadenceDays": {
+  "daily": 1,
+  "weekly": 7,
+  "fortnightly": 14
+ },
+ "sources": [
+  {
+   "name": "Luma Bengaluru",
+   "url": "https://luma.com/bengaluru",
+   "cadence": "daily",
+   "group": "Registration platforms",
+   "slice": "luma_meetup",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Meetup Bangalore tech",
+   "url": "https://www.meetup.com/find/?location=in--Bangalore&source=EVENTS&categoryId=546",
+   "cadence": "daily",
+   "group": "Registration platforms",
+   "slice": "luma_meetup",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Bengaluru2Go",
+   "url": "https://bengaluru2go.in/",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Hidden Events",
+   "url": "https://hiddenevents.online/bengaluru/tech-events/",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "HeapHeapHurray",
+   "url": "https://events.heapheaphurray.com/bengaluru",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "TechMeetups",
+   "url": "https://techmeetups.io/bangalore/events",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Jamao",
+   "url": "https://jamao.in/bengaluru/this-month",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Techsnap",
+   "url": "https://techsnap.in/events/city/bangalore",
+   "cadence": "daily",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Kure-Cal (AI)",
+   "url": "https://www.kure-cal.com/events/topic/ai/bengaluru",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "GDG Cloud Bengaluru",
+   "url": "https://www.gdgcblr.in/events",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "B2Bangalore",
+   "url": "https://www.b2bangalore.com/events",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "dev.events",
+   "url": "https://dev.events/",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "blr.today",
+   "url": "https://blr.today/",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "aggregators",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "AllEvents Bangalore",
+   "url": "https://allevents.in/bangalore/technology",
+   "cadence": "daily",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Unstop",
+   "url": "https://unstop.com/hackathons",
+   "cadence": "daily",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Konfhub",
+   "url": "https://konfhub.com/",
+   "cadence": "weekly",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Eventbrite Bengaluru",
+   "url": "https://www.eventbrite.com/d/india--bangalore/science-and-tech--events/",
+   "cadence": "weekly",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "HasGeek",
+   "url": "https://hasgeek.com/",
+   "cadence": "weekly",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Devfolio",
+   "url": "https://devfolio.co/hackathons",
+   "cadence": "weekly",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Commudle",
+   "url": "https://www.commudle.com/events",
+   "cadence": "weekly",
+   "group": "Registration platforms",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Google Developer Groups",
+   "url": "https://gdg.community.dev/",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "ticketing",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "GDSC",
+   "url": "https://gdsc.community.dev/",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "FOSS United",
+   "url": "https://fossunited.org/events/timeline",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "CNCF Community",
+   "url": "https://community.cncf.io/events/#/list",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "null Community",
+   "url": "https://null.community/upcoming",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "OWASP Bangalore",
+   "url": "https://owasp.org/www-chapter-bangalore/",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Snowflake User Groups",
+   "url": "https://usergroups.snowflake.com/",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "AI & ML Events",
+   "url": "https://aiml.events/",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "bi0s",
+   "url": "https://www.bi0sblr.in/",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Dine With DevOps",
+   "url": "https://www.dinewithdevops.com/",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Atlassian Community",
+   "url": "https://ace.atlassian.com/",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "MuleSoft Bangalore",
+   "url": "https://meetups.mulesoft.com/bangalore/",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "HSX by Headstart",
+   "url": "https://www.headstart.in/hsx",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "BlockchainedIndia",
+   "url": "https://www.blockchainedindia.com/meetups",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Web3 Meetups",
+   "url": "https://web3meetups.xyz/",
+   "cadence": "weekly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Zoho User Group BLR",
+   "url": "https://community.zoho.com/user-groups/bengaluru.html",
+   "cadence": "fortnightly",
+   "group": "Communities",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "River",
+   "url": "https://app.getriver.io/",
+   "cadence": "weekly",
+   "group": "Listing sites",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "eventyay",
+   "url": "https://eventyay.com/",
+   "cadence": "fortnightly",
+   "group": "Listing sites",
+   "slice": "communities",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Developer Conferences",
+   "url": "https://developers.events/",
+   "cadence": "fortnightly",
+   "group": "Conference & industry",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "YourStory Events",
+   "url": "https://yourstory.com/events",
+   "cadence": "fortnightly",
+   "group": "Conference & industry",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "ET Edge",
+   "url": "https://et-edge.com/conferences/",
+   "cadence": "fortnightly",
+   "group": "Conference & industry",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "All Conference Alert",
+   "url": "https://www.allconferencealert.com/bangalore.html",
+   "cadence": "fortnightly",
+   "group": "Conference & industry",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "AWS",
+   "url": "https://aws.amazon.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Microsoft",
+   "url": "https://events.microsoft.com/en-us/allevents/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "NVIDIA",
+   "url": "https://www.nvidia.com/en-us/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Google Cloud",
+   "url": "https://cloud.google.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Adobe",
+   "url": "https://www.adobe.com/events.html",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "IBM",
+   "url": "https://www.ibm.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Intel",
+   "url": "https://www.intel.com/content/www/us/en/events/overview.html",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Oracle",
+   "url": "https://search.oracle.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "SAP",
+   "url": "https://www.sap.com/events.html",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "ServiceNow",
+   "url": "https://www.servicenow.com/events.html",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Red Hat",
+   "url": "https://www.redhat.com/en/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "MongoDB",
+   "url": "https://www.mongodb.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Datadog",
+   "url": "https://www.datadoghq.com/events-webinars/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "New Relic",
+   "url": "https://newrelic.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Dell",
+   "url": "https://www.dell.com/en-us/dt/events/index.htm",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Qualcomm",
+   "url": "https://www.qualcomm.com/company/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Autodesk",
+   "url": "https://www.autodesk.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Dassault Systèmes",
+   "url": "https://events.3ds.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Capgemini",
+   "url": "https://www.capgemini.com/news/events/?events=upcoming",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Deloitte",
+   "url": "https://rsvp.deloitte.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "EPAM India",
+   "url": "https://welcome.epam.in/about-us/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "LTTS",
+   "url": "https://www.ltts.com/events/upcoming",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Freshworks",
+   "url": "https://www.freshworks.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Zoho",
+   "url": "https://events.zoho.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Slack",
+   "url": "https://slack.com/intl/en-in/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Amplitude",
+   "url": "https://amplitude.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "PingCAP",
+   "url": "https://www.pingcap.com/event/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Phenom",
+   "url": "https://info.phenom.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "CrowdStrike",
+   "url": "https://www.crowdstrike.com/en-us/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "ISMG",
+   "url": "https://ismg.events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "IDC Asia/Pacific",
+   "url": "https://www.idc.com/ap/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "CXOCYWAYZ",
+   "url": "https://cxocywayz.com/home",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Future Fintech Forum",
+   "url": "https://f3ex.in/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "DVCon India",
+   "url": "https://dvcon-india.org/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "India Game Dev Conf",
+   "url": "https://indiagdc.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Multiplai by Target",
+   "url": "https://multiplai.target.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Ola Sankalp",
+   "url": "https://www.olasankalp.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "ABLE India",
+   "url": "https://ableindia.in/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Solana",
+   "url": "https://solana.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "conferences",
+   "lastFetched": "2026-11-18"
+  }
+ ]
+}
