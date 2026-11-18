@@ -365,7 +365,7 @@ details summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--ink-2)
 <body>
 <header class="top" id="top">
   <div class="top-in">
-    <button class="brand" data-view="discover" data-reset aria-label="Namma Tech Events, discover"><span class="mark">BLR</span><b>Namma Tech Events</b></button>
+    <button class="brand" data-view="discover" data-reset aria-label="Namma Tech Events, discover"><span class="mark"><svg viewBox="0 0 64 64" width="20" height="20" aria-hidden="true"><rect x="12" y="17" width="40" height="34" rx="5" fill="none" stroke="currentColor" stroke-width="5"/><path d="M12 27h40M22 11v10M42 11v10" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><circle cx="24" cy="38" r="3.8" fill="currentColor"/><circle cx="34" cy="38" r="3.8" fill="currentColor" opacity=".55"/><circle cx="44" cy="38" r="3.8" fill="currentColor" opacity=".55"/></svg></span><b>Namma Tech Events</b></button>
     <nav class="nav" id="nav" aria-label="Sections"></nav>
     <div class="theme" id="theme" role="group" aria-label="Theme"></div>
   </div>
@@ -558,7 +558,7 @@ new ResizeObserver(setTh).observe($("#top"));
 function renderChrome(){
   const cur = k => (S.view===k ? 'aria-current="page"' : "");
   $("#nav").innerHTML = VIEWS.map(([k,l])=>`<button data-view="${k}" ${cur(k)}>${l}${k==="saved"&&S.saved.length?` <span class="n">${S.saved.length}</span>`:""}</button>`).join("");
-  $("#tabbar").innerHTML = VIEWS.map(([k,l,ic])=>`<button data-view="${k}" ${cur(k)}>${ic}${l.split(" ").pop()}</button>`).join("");
+  $("#tabbar").innerHTML = VIEWS.map(([k,l,ic])=>`<button data-view="${k}" ${cur(k)}>${ic}${k==="search"?(HOSTED?"Search":"Find"):l}</button>`).join("");
 }
 function go(scroll=true){
   renderChrome(); render();
