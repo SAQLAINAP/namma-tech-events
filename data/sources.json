@@ -11,7 +11,7 @@
    "cadence": "daily",
    "group": "Registration platforms",
    "slice": "luma_meetup",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Meetup Bangalore tech",
@@ -19,7 +19,7 @@
    "cadence": "daily",
    "group": "Registration platforms",
    "slice": "luma_meetup",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Bengaluru2Go",
@@ -27,7 +27,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Hidden Events",
@@ -35,7 +35,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "HeapHeapHurray",
@@ -43,7 +43,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "TechMeetups",
@@ -51,7 +51,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Jamao",
@@ -59,7 +59,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Techsnap",
@@ -67,7 +67,7 @@
    "cadence": "daily",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Kure-Cal (AI)",
@@ -75,7 +75,7 @@
    "cadence": "weekly",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "GDG Cloud Bengaluru",
@@ -83,7 +83,7 @@
    "cadence": "weekly",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "B2Bangalore",
@@ -91,7 +91,7 @@
    "cadence": "weekly",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "dev.events",
@@ -99,7 +99,7 @@
    "cadence": "weekly",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "blr.today",
@@ -107,7 +107,7 @@
    "cadence": "weekly",
    "group": "Listing sites",
    "slice": "aggregators",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "AllEvents Bangalore",
@@ -115,7 +115,7 @@
    "cadence": "daily",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Unstop",
@@ -123,7 +123,7 @@
    "cadence": "daily",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Konfhub",
@@ -131,7 +131,7 @@
    "cadence": "weekly",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Eventbrite Bengaluru",
@@ -139,7 +139,7 @@
    "cadence": "weekly",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "HasGeek",
@@ -147,7 +147,7 @@
    "cadence": "weekly",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Devfolio",
@@ -155,7 +155,7 @@
    "cadence": "weekly",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Commudle",
@@ -163,7 +163,7 @@
    "cadence": "weekly",
    "group": "Registration platforms",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "Google Developer Groups",
@@ -171,7 +171,7 @@
    "cadence": "weekly",
    "group": "Communities",
    "slice": "ticketing",
-   "lastFetched": "2026-11-18"
+   "lastFetched": "2026-11-23"
   },
   {
    "name": "GDSC",

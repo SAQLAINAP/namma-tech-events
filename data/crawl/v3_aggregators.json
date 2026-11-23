@@ -1,0 +1,1602 @@
+[
+  {
+    "title": "AWS ServiceVerse: Discover the Universe of AWS",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "09:15-12:50",
+    "venue": "HKBK College of Engineering",
+    "area": "Nagavara",
+    "organizer": "AWS SBG at HKBK College of Engineering",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/aws-sbg-at-hkbk-college-of-engineering/events/317398233/",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "AWS",
+      "cloud",
+      "students"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Students",
+    "description": "Campus session by the AWS Student Builder Group introducing AWS services and how cloud apps work behind the scenes.",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "FoundIN Curated Meetup - 24th November (The AI Playbook: Build, Scale & Disrupt)",
+    "date": "2026-11-24",
+    "endDate": null,
+    "time": "18:30-20:30",
+    "venue": "Quad AI School of Technology and Business, 27th Main Rd, 1st Sector",
+    "area": "HSR Layout",
+    "organizer": "Tathagat Kumar, QUAD AI",
+    "platform": "Luma",
+    "url": "https://luma.com/b06brorl",
+    "domain": "Startups",
+    "tags": [
+      "founders",
+      "AI",
+      "networking"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders (curated, invite-only)",
+    "description": "Curated invite-only founders meetup on founder readiness, investment and scaling, themed around the AI playbook.",
+    "confidence": "high",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Fireside Chat | Aditya Agarwal, Trisha Kothari (Unit21) and Kavitha Iyer Rodrigues (Zumutor Biologics)",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": "16:00-18:00",
+    "venue": "SPC India (South Park Commons)",
+    "area": "Vanganahalli",
+    "organizer": "South Park Commons India",
+    "platform": "Luma",
+    "url": "https://luma.com/AdityaFireside",
+    "domain": "Startups",
+    "tags": [
+      "fireside",
+      "fintech",
+      "founders"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders, builders",
+    "description": "SPC India fireside chat with the Unit21 and Zumutor Biologics founders on building in regulated, high-stakes industries.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray"
+    ]
+  },
+  {
+    "title": "Steam & Silicon: What the first machine age can teach the AI age",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": "18:30-19:30",
+    "venue": "Lossfunk (exact address shared on registration)",
+    "area": "Binnamangala",
+    "organizer": "Lossfunk (Paras Chopra, Jay Joshi)",
+    "platform": "Luma",
+    "url": "https://luma.com/0gz2qjfs",
+    "domain": "AI & ML",
+    "tags": [
+      "AI",
+      "history of technology",
+      "talk"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "General / tech community",
+    "description": "Talk on the Industrial Revolution and what the first machine age can teach us about the AI age.",
+    "confidence": "medium",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Bengaluru | Sparkle CXO Connect - Secure Enterprise AI Adoption",
+    "date": "2026-11-25",
+    "endDate": null,
+    "time": "19:00-22:30",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "HAL 2nd Stage",
+    "organizer": "Pankaj Dubey, Chintan Patel",
+    "platform": "Luma",
+    "url": "https://luma.com/v2v42u5w",
+    "domain": "Enterprise",
+    "tags": [
+      "enterprise AI",
+      "CIO",
+      "CISO",
+      "security"
+    ],
+    "price": "Free",
+    "perks": [
+      "food",
+      "drinks"
+    ],
+    "audience": "CIOs, CTOs, CISOs, AI leaders (curated)",
+    "description": "Closed-door curated gathering of enterprise tech leaders on secure enterprise AI adoption.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Welcome to the Gemini 4 Sprints!",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "09:00-17:00",
+    "venue": "Google Bangalore - Kyoto Campus",
+    "area": null,
+    "organizer": "GDG Bangalore",
+    "platform": "GDG Community",
+    "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-welcome-to-the-gemini-4-sprints/",
+    "domain": "AI & ML",
+    "tags": [
+      "Gemini",
+      "AI agents",
+      "sprint",
+      "Google"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Developers",
+    "description": "Full-day hybrid sprint to build next-generation AI agents and applications with Gemini; RSVP via rsvp.withgoogle.com/events/gemini-sprints.",
+    "confidence": "high",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Design School S5: Adapting a design system for a diverse product and user base on a live product",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "19:00-20:30",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "HSR Layout Sector 2",
+    "organizer": "Harkirat (Rocket) Singh",
+    "platform": "Luma",
+    "url": "https://luma.com/pwr0avk8",
+    "domain": "Product & Design",
+    "tags": [
+      "design systems",
+      "UX",
+      "product design"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Designers, product folks",
+    "description": "Session by Aditya Narayan (Sr. Product Designer, ex-Meesho/Quizizz) on adapting a design system live for a diverse user base.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Digital Public Infrastructure in the Age of AI",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "18:30-19:30",
+    "venue": "Lossfunk (exact address shared on registration)",
+    "area": "Binnamangala",
+    "organizer": "Lossfunk (Paras Chopra, Jay Joshi, SurendraSingh)",
+    "platform": "Luma",
+    "url": "https://luma.com/qhbrjpsz",
+    "domain": "AI & ML",
+    "tags": [
+      "DPI",
+      "AI",
+      "govtech"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "General / tech community",
+    "description": "Talk exploring what Digital Public Infrastructure thinking (identity, payments, data rails) looks like in the age of AI.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Clay in Bangalore: Clay+Hubspot - Create a living ICP model for your CRM",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "18:30-21:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": null,
+    "organizer": "HubSpot for Startups",
+    "platform": "Luma",
+    "url": "https://luma.com/clayclub-hubspot-bangalore",
+    "domain": "Data",
+    "tags": [
+      "Clay",
+      "HubSpot",
+      "CRM",
+      "GTM automation"
+    ],
+    "price": "Free",
+    "perks": [
+      "food",
+      "drinks"
+    ],
+    "audience": "GTM / RevOps / growth practitioners",
+    "description": "Hands-on laptop workshop combining Clay and HubSpot CRM to build an automated ICP scoring model.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "DEMO DAY by The Startup Zone x FSH x DBS Bank x Tracxn",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "16:00-20:00",
+    "venue": "Founder Startup House Bangalore, Startup Lane 384, 1st A Main Rd, 7th Block",
+    "area": "Koramangala",
+    "organizer": "The Startup Zone, Founder Startup House",
+    "platform": "Luma",
+    "url": "https://luma.com/lvrisw8b",
+    "domain": "Startups",
+    "tags": [
+      "demo day",
+      "pitching",
+      "investors"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Startup founders, investors",
+    "description": "Startups pitch on stage to VCs and investors, with networking with partners and mentors.",
+    "confidence": "high",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Automate Smarter with n8n",
+    "date": "2026-11-27",
+    "endDate": "2026-11-28",
+    "time": "08:00",
+    "venue": "ISBR Engineering College, Shantipura Main Road, Phase II",
+    "area": "Electronic City",
+    "organizer": null,
+    "platform": "Allevents",
+    "url": "https://allevents.in/bangalore/automate-smarter-with-n8n/3900031038832031",
+    "domain": "AI & ML",
+    "tags": [
+      "n8n",
+      "automation",
+      "workshop",
+      "AI"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Students, professionals",
+    "description": "Two-day hands-on workshop on building business workflows with the open-source n8n automation platform and adding AI.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Empowering Everyone: Build Something for Our Grandparents",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "15:00-17:00",
+    "venue": "RV College of Engineering - Civil Department",
+    "area": null,
+    "organizer": "OpenAI Student Collective at RVCE, Women in Cloud Insider Circle at RVCE",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/empowering-everyone-build-something-for-our-grandparents/4700031093992855",
+    "domain": "AI & ML",
+    "tags": [
+      "ChatGPT",
+      "prototyping",
+      "students",
+      "accessibility"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Students",
+    "description": "Hands-on workshop using ChatGPT to prototype simple tools that solve a frustration faced by older adults.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "HIGHTABLE 2026 BLAST MIXER",
+    "date": "2026-11-27",
+    "endDate": null,
+    "time": "19:00-23:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Marathahalli",
+    "organizer": "HighTable VC",
+    "platform": "Luma",
+    "url": "https://luma.com/fhd46qhy",
+    "domain": "Startups",
+    "tags": [
+      "founders",
+      "investors",
+      "networking"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders, VCs, enterprise leaders (invite-only)",
+    "description": "Invite-only evening bringing together founders, venture investors and enterprise decision-makers.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "OWASP Bangalore/Null Bangalore Monthly Meet - 28th November 2026",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "09:30-14:00",
+    "venue": "Palo Alto Networks, Bengaluru (nearest metro: Swami Vivekananda Road)",
+    "area": "Bhuvaneswari Nagar",
+    "organizer": "Null Bangalore, OWASP Bangalore",
+    "platform": "Luma",
+    "url": "https://luma.com/vmy4jf35",
+    "domain": "Security",
+    "tags": [
+      "OWASP",
+      "null",
+      "AI threats",
+      "appsec"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Security practitioners",
+    "description": "Monthly null x OWASP meetup themed on AI-powered threats: two technical talks and a panel on autonomous cyberattacks.",
+    "confidence": "high",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "AI, SaaS & Deeptech Founders Meetup (HSR)",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "18:00-20:00",
+    "venue": "Enzyme HSR 22, 14th Main Rd, HSR Layout 5th Sector",
+    "area": "HSR Layout",
+    "organizer": "openhour (Avinash Pinto)",
+    "platform": "Luma",
+    "url": "https://luma.com/rzs3lj3f",
+    "domain": "Startups",
+    "tags": [
+      "AI",
+      "SaaS",
+      "deeptech",
+      "founders"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders",
+    "description": "Evening of conversations for AI, SaaS and deeptech founders on PMF, customers, fundraising and scaling (separate from the 26 Nov Hebbal edition).",
+    "confidence": "high",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Founders Dinner",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "19:30-21:30",
+    "venue": "Zo House Bangalore, Anaa Infra's Signature Towers, 1st Block",
+    "area": "Koramangala",
+    "organizer": "BLRxZo (Harsha Johny)",
+    "platform": "Luma",
+    "url": "https://luma.com/1saxywfy",
+    "domain": "Startups",
+    "tags": [
+      "founders",
+      "dinner",
+      "AI in creation"
+    ],
+    "price": "INR 750",
+    "perks": [
+      "food"
+    ],
+    "audience": "Founders (20 seats)",
+    "description": "Intimate curated dinner for 20 founders; this edition leans into AI in creation.",
+    "confidence": "high",
+    "seenOn": [
+      "HiddenEvents"
+    ]
+  },
+  {
+    "title": "AI in Marketing - Volume 2 (Invite only B2B Marketing leaders event)",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "12:30-17:30",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": null,
+    "organizer": "Aishwarya, Sourajit, Ishaan Shakunt",
+    "platform": "Luma",
+    "url": "https://luma.com/zox3hshr",
+    "domain": "AI & ML",
+    "tags": [
+      "AI",
+      "B2B marketing",
+      "GTM"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Senior B2B marketing leaders (invite-only)",
+    "description": "Year-end review where senior marketers show how their AI marketing stacks and workflows evolved through 2026.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "The AI Leadership Exchange",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "16:00-19:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Yellappa Garden / MG Road",
+    "organizer": "SparkProd x Evoque Impact",
+    "platform": "Luma",
+    "url": "https://luma.com/nd8v55gl",
+    "domain": "Enterprise",
+    "tags": [
+      "AI leadership",
+      "roundtable"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Senior leaders (invite-only)",
+    "description": "Private invite-only roundtable for senior leaders to candidly discuss AI decision-making.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Workshop: Accelerating in the AI-Native World [Bengaluru]",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "10:30-16:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Vanganahalli",
+    "organizer": "GTMDialogues DeTours, Women in Product Marketing",
+    "platform": "Luma",
+    "url": "https://luma.com/y0g89svf",
+    "domain": "Startups",
+    "tags": [
+      "GTM",
+      "fundraising",
+      "founders",
+      "AI-native"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Post-PMF founders",
+    "description": "Half-day GTM x fundraising workshop on building distribution after PMF and shaping the investor story.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Zero-Churn Utopia: Is It Possible to Engineer the Customer Journey to Eliminate Unwanted Downgrades and Cancellations?",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "11:00-13:00",
+    "venue": "BHIVE Workspace MG Road, Mahalakshmi Chambers, 29 MG Rd",
+    "area": "MG Road",
+    "organizer": "RevOps Chronicles",
+    "platform": "Luma",
+    "url": "https://luma.com/i3hwgqoa",
+    "domain": "Startups",
+    "tags": [
+      "SaaS",
+      "churn",
+      "RevOps",
+      "customer success"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "SaaS leaders, RevOps, CS",
+    "description": "RevOps Chronicles session treating SaaS churn as a structural engineering problem across the customer journey.",
+    "confidence": "high",
+    "seenOn": [
+      "HeapHeapHurray",
+      "TechMeetups",
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Saturday Builder's Walk (0 -> 1 Edition)",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "16:15-19:15",
+    "venue": "BTM Lake (start point shared on registration)",
+    "area": "BTM Layout",
+    "organizer": "Founders Cluster",
+    "platform": "Luma",
+    "url": "https://luma.com/qc86qs7j",
+    "domain": "Startups",
+    "tags": [
+      "builders",
+      "indie hackers",
+      "networking walk"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders, engineers, designers, indie hackers",
+    "description": "Walking meetup around BTM Lake for people between an idea and a first version to find feedback and collaborators.",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "How to Raise Your First Startup Funding Round: A VC's Playbook",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "17:00-20:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Koramangala",
+    "organizer": "nolimits",
+    "platform": "Luma",
+    "url": "https://luma.com/ijtz55fy",
+    "domain": "Startups",
+    "tags": [
+      "fundraising",
+      "pre-seed",
+      "seed",
+      "VC"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Early-stage founders",
+    "description": "Session by a former investor on how VCs evaluate startups and how deals move from first call to term sheet.",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "eChai Startup Demo Day in Bengaluru : Koramangala Edition",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "18:00-20:00",
+    "venue": "Koramangala (venue on registration page)",
+    "area": "Koramangala",
+    "organizer": "eChai Ventures",
+    "platform": "Official site",
+    "url": "https://echai.ventures/events/echai-startup-demo-day-in-bengaluru-koramangala-edition-nov-28-2026",
+    "domain": "Startups",
+    "tags": [
+      "demo day",
+      "startups"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Founders, investors, community",
+    "description": "eChai demo day where founders show what they are building (Koramangala edition, separate from the HSR edition).",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Ship with Open-Weight Models - Bengaluru Edition",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "11:00-14:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Vanganahalli",
+    "organizer": "Airtribe",
+    "platform": "Luma",
+    "url": "https://luma.com/l11ii7k3",
+    "domain": "AI & ML",
+    "tags": [
+      "open-weight models",
+      "LLM",
+      "hands-on",
+      "building"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Developers, builders",
+    "description": "In-person hands-on building session exploring popular open-weight AI models and shipping AI-powered apps with them.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "The Future of Aerospace: Bengaluru Meetup",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "11:00-14:00",
+    "venue": "Awfis Residency Road, Sabari Complex, 24 Field Marshal Cariappa Rd",
+    "area": "Ashok Nagar",
+    "organizer": "THE DRONE COMMUNITY (Ameya Upalanchi)",
+    "platform": "Luma",
+    "url": "https://luma.com/ufuftl1z",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "drones",
+      "UAV",
+      "space tech",
+      "aerospace"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders, engineers, researchers, investors",
+    "description": "Meetup on where drones, UAVs, satellites and in-space manufacturing are heading, and India's role.",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Tech.Harate Bengaluru Meetup | Cloud Career Accelerator 2027",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "09:30-13:30",
+    "venue": "ParSEC Jayanagar - Param Science Experience Centre, 32nd Cross Road",
+    "area": "Jayanagar",
+    "organizer": "Tech. by MicroDegree",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/tech%E0%B2%B9%E0%B2%B0%E0%B2%9F%E0%B3%86-bengaluru-meetup-cloud-career-accelerator-2027/100002005020823256",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "cloud",
+      "DevOps",
+      "careers",
+      "interview prep"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Cloud/DevOps job seekers",
+    "description": "Interactive meetup on Cloud & DevOps interview preparation and career guidance.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "AI Visibility Room",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "11:00-14:00",
+    "venue": "Anakin.io office",
+    "area": null,
+    "organizer": "Anakin",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/ai-visibility-room/4700031093991542",
+    "domain": "AI & ML",
+    "tags": [
+      "GEO",
+      "AEO",
+      "SEO",
+      "AI search"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "SEO / GEO / AEO practitioners",
+    "description": "Small-group session for SEO, GEO and AEO practitioners on visibility in ChatGPT, Perplexity, Gemini and AI Overviews.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "The 7 Gates to AI Adoption That Pays Off",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "09:30-13:30",
+    "venue": null,
+    "area": null,
+    "organizer": null,
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/the-7-gates-to-ai-adoption-that-pays-off/4700031097390220",
+    "domain": "AI & ML",
+    "tags": [
+      "AI adoption",
+      "ROI",
+      "workshop"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Founders, product leaders, business decision-makers",
+    "description": "4-hour in-person workshop on assessing whether AI initiatives will pay off before building more.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Talk-N-Ops AI Buildathon",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "09:30-18:30",
+    "venue": null,
+    "area": null,
+    "organizer": null,
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/talk-n-ops-ai-buildathon/4700031093964451",
+    "domain": "AI & ML",
+    "tags": [
+      "buildathon",
+      "AI",
+      "hackathon"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Developers, students, founders",
+    "description": "One-day AI build-a-thon to turn ideas into working products, solo or in teams.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Devin AI Mixer Bengaluru",
+    "date": "2026-11-28",
+    "endDate": null,
+    "time": "18:00-22:00",
+    "venue": null,
+    "area": null,
+    "organizer": null,
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/devin-ai-mixer-bengaluru/4700031097388951",
+    "domain": "AI & ML",
+    "tags": [
+      "Devin",
+      "AI coding agents",
+      "mixer"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Builders, founders, engineers",
+    "description": "Evening mixer for Bengaluru builders around Devin and AI, whether already using it or curious.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Creators' Rise AI Meetup 2.0: The AI Opportunity Arena",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "14:30-17:30",
+    "venue": "AI House - Bangalore, 2nd floor, 27th Main Rd, 1st Sector",
+    "area": "HSR Layout",
+    "organizer": "AI House, CreatorsRise",
+    "platform": "Luma",
+    "url": "https://luma.com/e4ebkxt1",
+    "domain": "AI & ML",
+    "tags": [
+      "AI",
+      "creators",
+      "community"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Students, professionals, founders, creators",
+    "description": "Interactive AI meetup for students, professionals, founders and creators exploring AI opportunities.",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "CyberSwaraj: Nostr, Cryptography Basics & How It Actually Works",
+    "date": "2026-11-29",
+    "endDate": null,
+    "time": "12:00-15:00",
+    "venue": "Bitshala Bitspace (address shared on registration)",
+    "area": "Muneswara Nagar",
+    "organizer": "Bitshala Bitspace, paperpsych",
+    "platform": "Luma",
+    "url": "https://luma.com/42jg53zj",
+    "domain": "Web3",
+    "tags": [
+      "Nostr",
+      "cryptography",
+      "privacy",
+      "decentralized"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Beginner to intermediate",
+    "description": "Hands-on workshop on the Nostr decentralized social protocol and the cryptography behind it.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Club Connect (AWS SBG DSCE)",
+    "date": "2026-11-30",
+    "endDate": null,
+    "time": "15:00-17:00",
+    "venue": "Dayananda Sagar College of Engineering",
+    "area": null,
+    "organizer": "AWS SBG at Dayananda Sagar College of Engineering",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/aws-sbg-at-dayananda-sagar-college-of-engineering/events/317449429/",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "AWS",
+      "students",
+      "community"
+    ],
+    "price": null,
+    "perks": [
+      "swag",
+      "snacks"
+    ],
+    "audience": "Students",
+    "description": "AWS Student Builder Group year-end meetup with games, snacks and club swag.",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "AI Tuesdays: Physical AI Research Paper Reading",
+    "date": "2026-12-01",
+    "endDate": null,
+    "time": "18:00-20:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Srirampuram",
+    "organizer": "Amrut Rajkarne, Varad Maniyar, Nexus VP",
+    "platform": "Luma",
+    "url": "https://luma.com/sjpddtbb",
+    "domain": "AI & ML",
+    "tags": [
+      "physical AI",
+      "robotics",
+      "paper reading",
+      "VLA"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Robotics / ML practitioners",
+    "description": "Paper-reading session pressure-testing recent robotics foundation-model claims (VLAs, world models, sim-to-real).",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Fluctuations are all you need",
+    "date": "2026-12-02",
+    "endDate": null,
+    "time": "18:30-19:30",
+    "venue": "Lossfunk (exact address shared on registration)",
+    "area": "Binnamangala",
+    "organizer": "Lossfunk (Paras Chopra, Jay Joshi)",
+    "platform": "Luma",
+    "url": "https://luma.com/kn73vknv",
+    "domain": "AI & ML",
+    "tags": [
+      "deep learning",
+      "quantitative biology",
+      "research talk"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Researchers, ML practitioners",
+    "description": "Research talk on predicting how living systems respond to perturbations, versus black-box deep learning approaches.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Founder's Office & EIR | Meetup - Bengaluru",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "18:00-20:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Garden Layout",
+    "organizer": "The Ecosystem Community (Rishav Agarwal)",
+    "platform": "Luma",
+    "url": "https://luma.com/tdjx9hdi",
+    "domain": "Startups",
+    "tags": [
+      "founder's office",
+      "EIR",
+      "product companies"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founder's Office staff and EIRs",
+    "description": "Exclusive meetup for people in Founder's Office and EIR roles at Bengaluru product companies.",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Follow The Frontier S1 R4: Dawn of Physical AI x ARTPARK",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "18:00-19:00",
+    "venue": "ARTPARK: ARTgarage facility, 177 HMT Colony",
+    "area": "Jalahalli",
+    "organizer": "BoldCap x ARTPARK",
+    "platform": "Luma",
+    "url": "https://luma.com/vyrdncpz",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "physical AI",
+      "robotics",
+      "founders"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Physical AI founders, researchers, operators",
+    "description": "Final room of BoldCap's Follow The Frontier series, on AI that works in the physical world.",
+    "confidence": "high",
+    "seenOn": [
+      "HiddenEvents"
+    ]
+  },
+  {
+    "title": "The Ground Truth | Physical AI X Data",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "18:00-21:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "HAL 3rd Stage",
+    "organizer": "The GroundTruth",
+    "platform": "Luma",
+    "url": "https://luma.com/kv9nb8v6",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "physical AI",
+      "robotics",
+      "data"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Robotics / physical AI teams",
+    "description": "Evening on how robots collect, manage and learn from messy real-world data as physical AI moves into deployments.",
+    "confidence": "medium",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "DPDP, AI and Community Voices: Listening Responsibly at Scale",
+    "date": "2026-12-04",
+    "endDate": null,
+    "time": "18:30-20:30",
+    "venue": "C4EC Foundation (Apurva office)",
+    "area": null,
+    "organizer": "C4EC Foundation",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/dpdp-ai-and-community-voices-listening-responsibly-at-scale-in-person/4700031093984845",
+    "domain": "Security",
+    "tags": [
+      "DPDP Act",
+      "data privacy",
+      "AI",
+      "consent"
+    ],
+    "price": null,
+    "perks": [
+      "food"
+    ],
+    "audience": "Organisations working with community data",
+    "description": "Panel on how the DPDP Act shapes the use of AI and digital tools on community data, followed by networking and dinner.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "SALT #3 - Theory-focused ML paper reading group",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "16:00-18:00",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "KHB Games Village",
+    "organizer": "Secure AI Futures Lab (SAFL)",
+    "platform": "Luma",
+    "url": "https://luma.com/95zsjtqa",
+    "domain": "AI & ML",
+    "tags": [
+      "ML theory",
+      "paper reading",
+      "proofs"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "ML researchers / practitioners",
+    "description": "Theory-heavy ML paper reading session working deeply through a single theorem or proof.",
+    "confidence": "medium",
+    "seenOn": [
+      "HiddenEvents",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "The Next Beat: Music in the Age of AI [A Futures Thinking workshop]",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "18:00-20:30",
+    "venue": "HSR Layout",
+    "area": "HSR Layout",
+    "organizer": "Deepshikha Yadav",
+    "platform": "Luma",
+    "url": "https://luma.com/kx3rf7y6",
+    "domain": "AI & ML",
+    "tags": [
+      "generative AI",
+      "music",
+      "futures thinking"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "General / creative tech",
+    "description": "Interactive futures-thinking workshop on where AI is taking the music industry. (Luma shows 5 Dec; known list had a 9 Jan listing for this title.)",
+    "confidence": "medium",
+    "seenOn": [
+      "HiddenEvents",
+      "HeapHeapHurray"
+    ]
+  },
+  {
+    "title": "Hands-on Microsoft Azure Cloud Workshop",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "10:00-14:00",
+    "venue": "Tekinar, 74, 5th Cross, Gattigere",
+    "area": "Rajarajeshwari Nagar",
+    "organizer": "Tekinar",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bangalore/hands-on-microsoft-azure-cloud-workshop/3900031095123523",
+    "domain": "Cloud & DevOps",
+    "tags": [
+      "Azure",
+      "cloud",
+      "beginner"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Beginners",
+    "description": "Beginner-friendly interactive workshop introducing how apps are built, deployed and managed on Microsoft Azure.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "The Founders X Investors Pitch | 5th Dec | Bangalore",
+    "date": "2026-12-05",
+    "endDate": null,
+    "time": "16:00-20:00",
+    "venue": "Fortius Origin, 7, 80 Feet Rd, Koramangala 1A Block",
+    "area": "Koramangala",
+    "organizer": "The Founders",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bangalore/the-founders-x-investors-pitch-5th-dec-bangalore-tickets/80006174166323",
+    "domain": "Startups",
+    "tags": [
+      "pitching",
+      "investors"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Startups, investors",
+    "description": "Flagship Founders X Investors pitch series edition bringing startups and investors together.",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "Robo Race (Robofiesta, RVITM)",
+    "date": "2026-12-09",
+    "endDate": "2026-12-10",
+    "time": null,
+    "venue": "RV Institute of Technology and Management",
+    "area": null,
+    "organizer": "RV Institute of Technology and Management",
+    "platform": "Unstop",
+    "url": "https://unstop.com/competitions/robo-race-robofiesta-rv-institute-of-technology-and-management-karnataka-1771419",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "robotics",
+      "competition",
+      "students"
+    ],
+    "price": "INR 400",
+    "perks": [],
+    "audience": "Students",
+    "description": "Teams build and race robotic speed machines on an obstacle track at Robofiesta.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Robo Sumo (Robofiesta, RVITM)",
+    "date": "2026-12-09",
+    "endDate": "2026-12-10",
+    "time": null,
+    "venue": "RV Institute of Technology and Management",
+    "area": null,
+    "organizer": "RV Institute of Technology and Management",
+    "platform": "Unstop",
+    "url": "https://unstop.com/competitions/robo-sumo-robofiesta-rv-institute-of-technology-and-management-karnataka-1775115",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "robotics",
+      "sumo",
+      "students"
+    ],
+    "price": "INR 400",
+    "perks": [],
+    "audience": "Students",
+    "description": "RC-controlled robot sumo battle in an arena, judged on mechanical design and manoeuvring.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Bug Squash (Robofiesta, RVITM)",
+    "date": "2026-12-09",
+    "endDate": "2026-12-10",
+    "time": null,
+    "venue": "RV Institute of Technology and Management",
+    "area": null,
+    "organizer": "RV Institute of Technology and Management",
+    "platform": "Unstop",
+    "url": "https://unstop.com/competitions/bug-squash-robofiesta-rv-institute-of-technology-and-management-karnataka-1775209",
+    "domain": "Dev & Web",
+    "tags": [
+      "debugging",
+      "coding",
+      "students"
+    ],
+    "price": "INR 100",
+    "perks": [],
+    "audience": "Students (teams of two)",
+    "description": "Three-round debugging competition fixing syntax and logic bugs in code snippets.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Build Your Web (Robofiesta, RVITM)",
+    "date": "2026-12-09",
+    "endDate": "2026-12-10",
+    "time": null,
+    "venue": "RV Institute of Technology and Management",
+    "area": null,
+    "organizer": "RV Institute of Technology and Management",
+    "platform": "Unstop",
+    "url": "https://unstop.com/competitions/build-your-web-robofiesta-rv-institute-of-technology-and-management-karnataka-1775266",
+    "domain": "Dev & Web",
+    "tags": [
+      "web development",
+      "competition",
+      "students"
+    ],
+    "price": "INR 300",
+    "perks": [],
+    "audience": "Students",
+    "description": "On-the-spot themed web development competition to build functional, innovative websites.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Tech Auction (Robofiesta, RVITM)",
+    "date": "2026-12-10",
+    "endDate": "2026-12-11",
+    "time": null,
+    "venue": "RV Institute of Technology and Management",
+    "area": null,
+    "organizer": "RV Institute of Technology and Management",
+    "platform": "Unstop",
+    "url": "https://unstop.com/competitions/tech-auction-robofiesta-rv-institute-of-technology-and-management-karnataka-1776106",
+    "domain": "Dev & Web",
+    "tags": [
+      "tech stack",
+      "build",
+      "students"
+    ],
+    "price": "INR 200",
+    "perks": [
+      "prizes"
+    ],
+    "audience": "Students",
+    "description": "Teams bid for their technology stack in an auction, after an MCQ round, before building with it.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Voice AI Day Bengaluru (Edition #2)",
+    "date": "2026-12-10",
+    "endDate": null,
+    "time": "18:30-21:30",
+    "venue": null,
+    "area": null,
+    "organizer": "Voice AI Space",
+    "platform": "Luma",
+    "url": "https://luma.com/voiceaispace",
+    "domain": "AI & ML",
+    "tags": [
+      "voice AI",
+      "community",
+      "global meetup"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Voice AI builders",
+    "description": "Same-evening global meetup of Voice AI people across cities, including Bengaluru.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "AI X GPU Pre Summit : Investors and VC Connect",
+    "date": "2026-12-11",
+    "endDate": null,
+    "time": "16:00-18:30",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Hoysala Nagar",
+    "organizer": "GPU Calendar (Vishwas Narayan)",
+    "platform": "Luma",
+    "url": "https://luma.com/5wrhj72x",
+    "domain": "Startups",
+    "tags": [
+      "AI infrastructure",
+      "GPU",
+      "investors",
+      "VC"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Investors, VCs, AI infra founders",
+    "description": "Pre-summit meetup connecting investors and VCs focused on AI infrastructure and compute.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Hack Summit 2026 (Magicball)",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": null,
+    "venue": "Magicball",
+    "area": "HSR Layout",
+    "organizer": "Magicball",
+    "platform": "Official site",
+    "url": "https://www.magicball.dev/hack-summit-2026",
+    "domain": "AI & ML",
+    "tags": [
+      "AI engineering",
+      "hack hours",
+      "product booths",
+      "agents"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "AI engineers and founders (approval-only)",
+    "description": "Bring-your-own-keyboard summit with 20 one-hour Hack Hours (Bandr, Munder Difflin, Failproof AI, Observal, Celesto, SafeDep and more) and 50+ product booths.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Beyond Vibe Checks: A Hands On Workshop on Evaluating LLM Apps, RAG and Agents",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "09:30-16:00",
+    "venue": "Sahaj Software, 3rd Floor, Sulochana Building, 365, 1st Cross Rd, 3rd Block",
+    "area": "Koramangala",
+    "organizer": "DevDay - Bangalore",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/devday_bangalore/events/317510480/",
+    "domain": "AI & ML",
+    "tags": [
+      "LLM evals",
+      "RAG",
+      "agents",
+      "workshop"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Developers (invite-only, limited capacity)",
+    "description": "Hands-on workshop on evaluating LLM apps, RAG pipelines and agents; invite-only with registration screening.",
+    "confidence": "high",
+    "seenOn": [
+      "HeapHeapHurray"
+    ]
+  },
+  {
+    "title": "Swift on Server Hands-on Workshop",
+    "date": "2026-12-12",
+    "endDate": null,
+    "time": "09:30-16:30",
+    "venue": "Bengaluru (address shared on registration)",
+    "area": "Vasanth Nagar",
+    "organizer": "Swift Pune",
+    "platform": "Luma",
+    "url": "https://luma.com/qiro7k41",
+    "domain": "Dev & Web",
+    "tags": [
+      "Swift",
+      "server-side",
+      "Raspberry Pi"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Developers",
+    "description": "Recap of the Swift Bharat talk plus a hands-on workshop building and deploying a first Swift on Server binary.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "HackerRank Orchestrate | 24-Hour Hackathon (Holiday Edition)",
+    "date": "2026-12-12",
+    "endDate": "2026-12-13",
+    "time": "18:00",
+    "venue": "HackerRank Bangalore office (in-person option; also online)",
+    "area": null,
+    "organizer": "HackerRank",
+    "platform": "Official site",
+    "url": "https://www.hackerrank.com/hackerrank-orchestrate-december26",
+    "domain": "AI & ML",
+    "tags": [
+      "hackathon",
+      "AI agents",
+      "24-hour"
+    ],
+    "price": null,
+    "perks": [
+      "prizes",
+      "swag",
+      "certificate",
+      "Codex credits"
+    ],
+    "audience": "Developers",
+    "description": "24-hour hackathon to design, build and ship an agent, judged by an AI voice interview; in-person participants at the Bangalore office get extra Codex credits.",
+    "confidence": "medium",
+    "seenOn": [
+      "HeapHeapHurray"
+    ]
+  },
+  {
+    "title": "AGENTIC FRONTIER - Founder's & VC",
+    "date": "2026-12-18",
+    "endDate": null,
+    "time": "18:00-22:00",
+    "venue": "Koramangala",
+    "area": "Koramangala",
+    "organizer": "HighTable",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bengaluru/agentic-frontier-founders-and-vc/4700031097389403",
+    "domain": "Startups",
+    "tags": [
+      "agentic AI",
+      "founders",
+      "VC"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Founders, VCs, angels, AI builders",
+    "description": "Exclusive HighTable gathering for founders, investors and AI builders shaping intelligent enterprises.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Azure SQL Bangalore User Group Meeting",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "09:00-16:00",
+    "venue": "Prestige Ferns Galaxy, 18 Bellandur Gate Rd",
+    "area": "Bellandur",
+    "organizer": "Azure SQL Bangalore User Group",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/azure-sql-bangalore-user-group-meetup/events/317510607/",
+    "domain": "Data",
+    "tags": [
+      "Azure SQL",
+      "SQL Server",
+      "databases"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "SQL / data professionals",
+    "description": "User group meetup with sessions and networking for Azure SQL and SQL enthusiasts (agenda being finalised).",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Software Architects Meetup",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "10:00-16:00",
+    "venue": "Emagine (formerly DevOn Software), 2A Embassy Tech Village Rd",
+    "area": "Devarabisanahalli",
+    "organizer": "Software Architects Bangalore",
+    "platform": "Meetup",
+    "url": "https://www.meetup.com/softwarearchitectsbangalore/events/317478246/",
+    "domain": "Dev & Web",
+    "tags": [
+      "software architecture",
+      "talks"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Software architects, senior engineers",
+    "description": "Full-day in-person meetup of the Software Architects Bangalore group.",
+    "confidence": "high",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "Founders Day (16VC)",
+    "date": "2026-12-19",
+    "endDate": null,
+    "time": "14:00-18:00",
+    "venue": "Awfis Prestige DotCom, 16/2 Residency Rd",
+    "area": "Ashok Nagar",
+    "organizer": "16VC",
+    "platform": "Luma",
+    "url": "https://luma.com/f1ru037d",
+    "domain": "Startups",
+    "tags": [
+      "pitching",
+      "founders",
+      "investors"
+    ],
+    "price": "Free",
+    "perks": [],
+    "audience": "Founders, investors, operators",
+    "description": "16VC day of pitching, networking and collaboration for founders and investors.",
+    "confidence": "high",
+    "seenOn": [
+      "Jamao"
+    ]
+  },
+  {
+    "title": "CircuitX'26",
+    "date": "2026-12-19",
+    "endDate": "2026-12-20",
+    "time": "17:00",
+    "venue": "BMS Institute of Technology and Management (BMSITM)",
+    "area": "Yelahanka",
+    "organizer": "IEEE PES & CASS Student Branch Chapters, BMSITM",
+    "platform": "Unstop",
+    "url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "hackathon",
+      "circuits",
+      "power systems",
+      "IEEE"
+    ],
+    "price": "INR 1000",
+    "perks": [],
+    "audience": "Students",
+    "description": "16-hour overnight hardware/circuits hackathon by IEEE PES and CASS student chapters at BMSITM.",
+    "confidence": "medium",
+    "seenOn": [
+      "Jamao",
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "AI Student Conference - Bangalore (AI Olympiad by IPN)",
+    "date": "2027-01-09",
+    "endDate": null,
+    "time": "09:00-14:00",
+    "venue": "National Centre For Excellence, 154/1 Vijay Kiran Knowledge Park, 5th Main",
+    "area": "Malleshpalya",
+    "organizer": "Indian Principals Network - IPN Foundation",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bangalore/ai-student-conference-bangalore/200030898102011",
+    "domain": "AI & ML",
+    "tags": [
+      "AI",
+      "students",
+      "education"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "School students",
+    "description": "Student AI conference linked to IPN's AI Olympiad (AIO) 2026 platform.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  },
+  {
+    "title": "ICIITCEE 2027: Intl Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics",
+    "date": "2027-01-21",
+    "endDate": "2027-01-22",
+    "time": null,
+    "venue": "BNM Institute of Technology (BNMIT), 12th Main Rd, 27th Cross",
+    "area": "Banashankari",
+    "organizer": "BNM Institute of Technology",
+    "platform": "Allevents",
+    "url": "https://allevents.in/bangalore/international-conference-on-intelligent-and-innovative-technologies-in-computing-electrical-and-elec/3700031098121502",
+    "domain": "Hardware & IoT",
+    "tags": [
+      "IEEE",
+      "academic conference",
+      "computing",
+      "electronics"
+    ],
+    "price": null,
+    "perks": [],
+    "audience": "Researchers, academics",
+    "description": "IEEE-sponsored academic conference on intelligent technologies in computing, electrical and electronics at BNMIT.",
+    "confidence": "medium",
+    "seenOn": [
+      "Bengaluru2Go"
+    ]
+  }
+]

@@ -1,0 +1,1394 @@
+[
+ {
+  "title": "FoundIN Curated Meetup | The AI Playbook: Build, Scale & Disrupt",
+  "date": "2026-11-24",
+  "endDate": null,
+  "time": "18:30-20:30",
+  "venue": "Quad AI School of Technology and Business",
+  "area": "HSR Layout",
+  "organizer": "FoundIN",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/foundin-curated-meetup-the-ai-playbook-build-scale-and-disrupt/4700031093960717",
+  "domain": "Startups",
+  "tags": [
+   "founders",
+   "AI",
+   "networking"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Founders (invite-only)",
+  "description": "Curated, invite-only founder meetup themed on building, scaling and disrupting with AI.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI Tuesdays: Physical AI Research Paper Reading",
+  "date": "2026-11-24",
+  "endDate": null,
+  "time": "18:00",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-tuesdays-physical-ai-research-paper-reading/4700031093962634",
+  "domain": "AI & ML",
+  "tags": [
+   "robotics",
+   "VLA",
+   "world models",
+   "paper reading"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "ML researchers and engineers",
+  "description": "Paper-reading session on physical AI and robotics foundation models (VLAs, world models, sim-to-real).",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Fireside Chat | Aditya Agarwal, Trisha Kothari (Unit21) and Kavitha Iyer Rodrigues (Zumutor Biologics)",
+  "date": "2026-11-25",
+  "endDate": null,
+  "time": "16:00-18:00",
+  "venue": "SPC India",
+  "area": null,
+  "organizer": "South Park Commons (SPC) India",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/fireside-chat-aditya-agarwal-trisha-kothari-unit21-and-kavitha-iyer-rodrigues-zumutor-biologics/4700031100040035",
+  "domain": "Startups",
+  "tags": [
+   "fireside chat",
+   "founders",
+   "fintech",
+   "biotech"
+  ],
+  "price": "Free (approval required)",
+  "perks": [],
+  "audience": "Founders and technologists",
+  "description": "SPC India fireside chat moderated by Aditya Agarwal with the CEOs of Unit21 and Zumutor Biologics on building in regulated, high-stakes industries.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Clerwell Ignite 2026",
+  "date": "2026-11-25",
+  "endDate": null,
+  "time": "10:00-17:00",
+  "venue": null,
+  "area": null,
+  "organizer": "Clerwell",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/clerwell-ignite-2026/4700031093979356",
+  "domain": "AI & ML",
+  "tags": [
+   "pitch competition",
+   "AI founders",
+   "demo"
+  ],
+  "price": null,
+  "perks": [
+   "₹1,00,000 cash prizes"
+  ],
+  "audience": "AI founders and builders",
+  "description": "Founder showcase where 25 shortlisted AI builders pitch and demo for ₹1 lakh in prizes; four winners go on to Clerwell's Agent & Developer Conference.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Sparkle CXO Connect - Secure Enterprise AI Adoption",
+  "date": "2026-11-25",
+  "endDate": null,
+  "time": "19:00-22:30",
+  "venue": null,
+  "area": null,
+  "organizer": "Sparkle",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/bengaluru-sparkle-cxo-connect-secure-enterprise-ai-adoption/4700031093963643",
+  "domain": "Enterprise",
+  "tags": [
+   "CXO",
+   "enterprise AI",
+   "security"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "CIOs, CTOs, CISOs, AI leaders (curated)",
+  "description": "Closed-door evening for CIOs, CTOs, CISOs and AI leaders on secure enterprise AI adoption.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Steam & Silicon: What the first machine age can teach the AI age",
+  "date": "2026-11-25",
+  "endDate": null,
+  "time": "18:30-19:30",
+  "venue": "Lossfunk",
+  "area": "Binnamangala",
+  "organizer": "Lossfunk",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/steam-and-silicon-what-the-first-machine-age-can-teach-the-ai-age/4700031093960413",
+  "domain": "AI & ML",
+  "tags": [
+   "talk",
+   "AI",
+   "history of technology"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "General tech audience",
+  "description": "Talk drawing lessons from the Industrial Revolution for the AI age.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "HackerX - Bengaluru (AI)",
+  "date": "2026-11-26",
+  "endDate": null,
+  "time": null,
+  "venue": null,
+  "area": null,
+  "organizer": "HackerX",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/hackerx-bengaluru-ai-employer-ticket-11-26/100001980342644158",
+  "domain": "AI & ML",
+  "tags": [
+   "recruiting",
+   "hiring",
+   "AI engineers"
+  ],
+  "price": "Employer tickets USD 595-1295 (allevents listing)",
+  "perks": [],
+  "audience": "Employers hiring AI, full-stack and forward-deployed engineers; developers",
+  "description": "Speed-dating style recruiting event where employers meet AI and full-stack engineers in 5-minute rounds. Listed time (11:30 PM IST) looks like a timezone error.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "PROTATVA-26 (4th National Level Intercollegiate Project Exhibition)",
+  "date": "2026-11-26",
+  "endDate": null,
+  "time": "09:00",
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RV Institute of Technology and Management (RVITM)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/protatva-264th-national-level-intercollegiate-project-exhibition/80007604477428",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "project expo",
+   "students",
+   "engineering"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Engineering students",
+  "description": "National-level intercollegiate project exhibition at RVITM.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Automate Smarter with n8n",
+  "date": "2026-11-27",
+  "endDate": "2026-11-28",
+  "time": null,
+  "venue": "ISBR Engineering College",
+  "area": "Electronic City",
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/automate-smarter-with-n8n/3900031038832031",
+  "domain": "AI & ML",
+  "tags": [
+   "n8n",
+   "automation",
+   "workshop",
+   "AI agents"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Students and professionals",
+  "description": "Two-day hands-on workshop on building business workflows with the open-source n8n platform and AI.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Clay in Bangalore: Clay+HubSpot - Create a living ICP model for your CRM",
+  "date": "2026-11-27",
+  "endDate": null,
+  "time": "18:30-21:00",
+  "venue": null,
+  "area": null,
+  "organizer": "Clay x HubSpot",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/clay-in-bangalore-clayhubspot-create-a-living-icp-model-for-your-crm/4700031093983837",
+  "domain": "Startups",
+  "tags": [
+   "GTM",
+   "CRM",
+   "Clay",
+   "HubSpot",
+   "workshop"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "GTM and RevOps practitioners (bring laptop)",
+  "description": "Hands-on workshop combining Clay and HubSpot CRM to build an ICP scoring model.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Design School S5: Adapting a design system for a diverse product and user base on a live product",
+  "date": "2026-11-27",
+  "endDate": null,
+  "time": "19:00-20:30",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/design-school-s5-adapting-a-design-system-for-a-diverse-product-and-user-base-on-a-live-product/4700031097389156",
+  "domain": "Product & Design",
+  "tags": [
+   "design systems",
+   "UX"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Product designers",
+  "description": "Session by Aditya Narayan (Accompany Health, ex-Meesho) on adapting a design system live across products and users.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Empowering Everyone: Build Something for Our Grandparents",
+  "date": "2026-11-27",
+  "endDate": null,
+  "time": "15:00-17:00",
+  "venue": "RVCE Civil Department",
+  "area": "Mysore Road",
+  "organizer": "OpenAI Student Collective at RVCE & Women in Cloud Insider Circle at RVCE",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/empowering-everyone-build-something-for-our-grandparents/4700031093992855",
+  "domain": "AI & ML",
+  "tags": [
+   "ChatGPT",
+   "prototyping",
+   "students",
+   "workshop"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Students",
+  "description": "Hands-on workshop to prototype a ChatGPT-built tool that solves a small problem for older adults.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Digital Public Infrastructure in the Age of AI",
+  "date": "2026-11-27",
+  "endDate": null,
+  "time": "18:30-19:30",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/digital-public-infrastructure-in-the-age-of-ai/4700031100042137",
+  "domain": "Enterprise",
+  "tags": [
+   "DPI",
+   "govtech",
+   "payments",
+   "identity",
+   "AI"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "General tech audience",
+  "description": "Session exploring India's digital public infrastructure for identity, payments and data sharing and how AI changes it.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI in Marketing - Volume 2 (Invite-only B2B Marketing Leaders Event)",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "12:30-17:30",
+  "venue": null,
+  "area": null,
+  "organizer": "Spear Growth x Chosenly",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-in-marketing-volume-2invite-only-b2b-marketing-leaders-event/4700031093961927",
+  "domain": "AI & ML",
+  "tags": [
+   "AI marketing",
+   "B2B",
+   "GTM",
+   "panel"
+  ],
+  "price": "Free (invite-only)",
+  "perks": [
+   "Lunch",
+   "Drinks"
+  ],
+  "audience": "Senior B2B marketers",
+  "description": "Year-end review of AI in B2B marketing with a panel (Signeasy, Blume, Zycus, Factors.ai) and live workflow talks.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Groww Next '26",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "10:00-19:00",
+  "venue": "Avaana Conventions",
+  "area": "Bellandur",
+  "organizer": "Groww",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/groww-next-26/3900030996258832",
+  "domain": "Startups",
+  "tags": [
+   "fintech",
+   "AI",
+   "investing",
+   "conference"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "18+; tech and investing enthusiasts",
+  "description": "Day of conversations on the next big shifts in tech, AI and investing, with hands-on product experiences.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "OWASP Bangalore / null Bangalore Monthly Meet - 28th November 2026",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "09:30-14:00",
+  "venue": "Palo Alto Networks",
+  "area": "Bengaluru (near Swami Vivekananda Road Metro)",
+  "organizer": "null Bangalore x OWASP Bangalore",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/owasp-bangalore-null-bangalore-monthly-meet-28th-november-2026/4700031093955132",
+  "domain": "Security",
+  "tags": [
+   "OWASP",
+   "null",
+   "AI threats",
+   "appsec"
+  ],
+  "price": "Free (approval required)",
+  "perks": [],
+  "audience": "Security practitioners",
+  "description": "Monthly meet on AI-powered threats with two technical talks and a panel on autonomous cyberattacks.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Tech.ಹರಟೆ Bengaluru Meetup | Cloud Career Accelerator 2027",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "09:30-13:30",
+  "venue": "ParSEC Jayanagar - Param Science Experience Centre",
+  "area": "Jayanagar",
+  "organizer": "Tech. by MicroDegree",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/techಹರಟೆ-bengaluru-meetup-cloud-career-accelerator-2027/100002005020823256",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "cloud",
+   "DevOps",
+   "careers",
+   "interview prep"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Cloud/DevOps job seekers",
+  "description": "Interactive meetup on Cloud & DevOps interview preparation and career guidance.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "TALK-N-OPS AI-BUILDATHON",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "09:30-18:30",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/talk-n-ops-ai-buildathon/4700031093964451",
+  "domain": "AI & ML",
+  "tags": [
+   "buildathon",
+   "hackathon",
+   "AI"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Developers, students, founders",
+  "description": "One-day AI build-a-thon to turn ideas into working products, solo or in teams.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Workshop: Accelerating in the AI-Native World [Bengaluru]",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "10:30-16:00",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/workshop-accelerating-in-the-ai-native-world-bengaluru/4700031093976330",
+  "domain": "Startups",
+  "tags": [
+   "GTM",
+   "fundraising",
+   "workshop"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Post-PMF founders",
+  "description": "Half-day GTM x fundraising workshop for founders scaling in an AI-native market.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI Visibility Room",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "11:00-14:00",
+  "venue": "Anakin.io",
+  "area": null,
+  "organizer": "Anakin",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-visibility-room/4700031093991542",
+  "domain": "AI & ML",
+  "tags": [
+   "GEO",
+   "AEO",
+   "SEO",
+   "AI search"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "SEO/GEO/AEO practitioners",
+  "description": "Small-group session on visibility in AI answer engines like ChatGPT, Perplexity and AI Overviews.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "The Future of Aerospace: Bengaluru Meetup",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "11:00-14:00",
+  "venue": "Awfis Residency Road",
+  "area": "Residency Road",
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/the-future-of-aerospace-bengaluru-meetup/4700031097388028",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "drones",
+   "space tech",
+   "UAV",
+   "aerospace"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Founders, engineers, researchers, investors",
+  "description": "Meetup on UAVs, satellites, orbital robotics and in-space manufacturing.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Devin AI Mixer Bengaluru",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "18:00-22:00",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/devin-ai-mixer-bengaluru/4700031097388951",
+  "domain": "AI & ML",
+  "tags": [
+   "Devin",
+   "AI coding agents",
+   "mixer"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Builders, founders, engineers",
+  "description": "Evening mixer for Bengaluru builders around AI and the Devin coding agent.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "The 7 Gates to AI Adoption That Pays Off",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "09:30-13:30",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/the-7-gates-to-ai-adoption-that-pays-off/4700031097390220",
+  "domain": "Enterprise",
+  "tags": [
+   "AI adoption",
+   "ROI",
+   "workshop"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Founders, product leaders, business decision-makers",
+  "description": "Four-hour in-person workshop on assessing whether AI initiatives will pay off before building.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Tokens & Teens",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "14:00-17:00",
+  "venue": null,
+  "area": null,
+  "organizer": "Lossfunk x JarvisLabs",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/tokens-and-teens/4700031100049750",
+  "domain": "AI & ML",
+  "tags": [
+   "build day",
+   "teens",
+   "AI agents"
+  ],
+  "price": "Free",
+  "perks": [
+   "1 billion DeepSeek tokens up for grabs"
+  ],
+  "audience": "Teenagers",
+  "description": "No-theme build day for teenagers to make apps, games, agents or experiments.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "The AI Leadership Exchange",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "16:00-19:00",
+  "venue": null,
+  "area": null,
+  "organizer": "Evoque Impact x SparkProd",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/the-ai-leadership-exchange/4700031093964149",
+  "domain": "Enterprise",
+  "tags": [
+   "AI leadership",
+   "roundtable"
+  ],
+  "price": "Invite-only",
+  "perks": [],
+  "audience": "Senior leaders",
+  "description": "Private, invite-only roundtable for senior leaders on AI.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Spatial Talks and Network #23",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": "09:00-12:00",
+  "venue": "Samagata Foundation",
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/spatial-talks-and-network-23/4700031103395650",
+  "domain": "Data",
+  "tags": [
+   "geospatial",
+   "foundation models",
+   "GIS"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Researchers, engineers, geospatial enthusiasts",
+  "description": "23rd meetup focused on geospatial foundation models and their real-world applications.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Creators'Rise AI Meetup 2.0: The AI Opportunity Arena",
+  "date": "2026-11-29",
+  "endDate": null,
+  "time": "14:30-17:30",
+  "venue": "AI House",
+  "area": null,
+  "organizer": "AI House",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/%F0%9D%90%82%F0%9D%90%91%F0%9D%90%84%F0%9D%90%80%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88%F0%9D%90%92%F0%9D%90%84-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%84%F0%9D%90%93%F0%9D%90%94%F0%9D%90%8F-%F0%9D%9F%90%F0%9D%9F%8E-%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%8E%F0%9D%90%8F%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%93%F0%9D%90%94%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98-%F0%9D%90%80%F0%9D%90%91%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%80/4700031093961826",
+  "domain": "AI & ML",
+  "tags": [
+   "AI",
+   "community",
+   "no-code"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Students, professionals, founders, creators",
+  "description": "Interactive AI meetup with challenges, collaborative building and showcases; no coding needed.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "CyberSwaraj: Nostr, Cryptography Basics & How It Actually Works",
+  "date": "2026-11-29",
+  "endDate": null,
+  "time": "12:00-15:00",
+  "venue": null,
+  "area": null,
+  "organizer": "Bitspace",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/cyberswaraj-nostr-cryptography-basics-and-how-it-actually-works/4700031093975020",
+  "domain": "Web3",
+  "tags": [
+   "Nostr",
+   "cryptography",
+   "privacy",
+   "decentralization"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Beginner-intermediate",
+  "description": "Hands-on workshop on the Nostr protocol and cryptography basics for digital privacy.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Founder's Office & EIR | Meetup - Bengaluru",
+  "date": "2026-12-04",
+  "endDate": null,
+  "time": "18:00-20:00",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/founders-office-and-eir-meetup-bengaluru/4700031093965805",
+  "domain": "Startups",
+  "tags": [
+   "founder's office",
+   "EIR",
+   "product companies"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Founder's Office staff and EIRs at product companies",
+  "description": "Exclusive meetup for Founder's Office and EIR professionals in Bengaluru's product ecosystem.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "DPDP, AI and Community Voices: Listening Responsibly at Scale",
+  "date": "2026-12-04",
+  "endDate": null,
+  "time": "18:30-20:30",
+  "venue": "Apurva office (C4EC Foundation)",
+  "area": null,
+  "organizer": "Apurva / C4EC Foundation",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/dpdp-ai-and-community-voices-listening-responsibly-at-scale-in-person/4700031093984845",
+  "domain": "Security",
+  "tags": [
+   "DPDP",
+   "data privacy",
+   "AI",
+   "panel"
+  ],
+  "price": null,
+  "perks": [
+   "Dinner"
+  ],
+  "audience": "Social-sector and tech practitioners",
+  "description": "Panel on using AI to listen to community data responsibly under India's DPDP Act, followed by networking and dinner.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "The Ground Truth | Physical AI X Data",
+  "date": "2026-12-04",
+  "endDate": null,
+  "time": "18:00-21:00",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/the-ground-truth-physical-ai-x-data/4700031093961322",
+  "domain": "AI & ML",
+  "tags": [
+   "physical AI",
+   "robotics",
+   "data"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "Robotics and AI builders",
+  "description": "Evening on the data challenges of moving physical AI from pilots into messy real-world deployments.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "SALT #3 - Theory-focused ML paper reading group",
+  "date": "2026-12-05",
+  "endDate": null,
+  "time": "16:00-18:00",
+  "venue": null,
+  "area": null,
+  "organizer": "SAFL Learning and Theory Club (SALT)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/salt-3-theory-focused-ml-paper-reading-group/4700031100057959",
+  "domain": "AI & ML",
+  "tags": [
+   "ML theory",
+   "paper reading"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "ML researchers",
+  "description": "Theory-heavy ML paper reading session working through a proof together.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Hands-on Microsoft Azure Cloud Workshop",
+  "date": "2026-12-05",
+  "endDate": null,
+  "time": "10:00-14:00",
+  "venue": "Tekinar",
+  "area": "Rajarajeshwari Nagar",
+  "organizer": "Tekinar",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/hands-on-microsoft-azure-cloud-workshop/3900031095123523",
+  "domain": "Cloud & DevOps",
+  "tags": [
+   "Azure",
+   "cloud",
+   "beginner"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Beginners",
+  "description": "Beginner-friendly workshop introducing Microsoft Azure and cloud app deployment.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI Founders & Leaders Brunch",
+  "date": "2026-12-06",
+  "endDate": null,
+  "time": "11:00-13:00",
+  "venue": "Private residence",
+  "area": "Bilekahalli, BTM",
+  "organizer": "Sreerupa Chowdhury (LegalCare), The AI Collective",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-founders-and-leaders-brunch/4700031093962836",
+  "domain": "AI & ML",
+  "tags": [
+   "AI founders",
+   "brunch",
+   "networking"
+  ],
+  "price": "Free (invite-only, 15 seats)",
+  "perks": [],
+  "audience": "AI founders, engineers, researchers, enterprise leaders",
+  "description": "Small Sunday breakfast for people building AI in Bengaluru to share what they're working on.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Orbit by PeakXV and IN-SPACe",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": "18:00-20:30",
+  "venue": null,
+  "area": null,
+  "organizer": "Peak XV x IN-SPACe",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/orbit-by-peakxv-and-in-space/4700031097389607",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "space tech",
+   "founders",
+   "VC"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Space-tech founders",
+  "description": "Evening for founders building India's space economy, hosted by Peak XV and IN-SPACe.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Voice AI Day Bengaluru",
+  "date": "2026-12-10",
+  "endDate": null,
+  "time": "18:30-21:30",
+  "venue": null,
+  "area": null,
+  "organizer": "Voice AI Space (Tbot & Voiceaispace.com team)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/voice-ai-day-bengaluru/4700031093964653",
+  "domain": "AI & ML",
+  "tags": [
+   "voice AI",
+   "community",
+   "global"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "People working on voice AI",
+  "description": "Edition #2 of a global same-evening Voice AI meetup; no talks, no pitching. Sponsors: LiveKit, Vobiz, Fish Audio.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI in Professional Services - an evening for PS Leaders",
+  "date": "2026-12-10",
+  "endDate": null,
+  "time": "19:00-21:00",
+  "venue": null,
+  "area": null,
+  "organizer": "JazzClub",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-in-professional-services-an-evening-for-ps-leaders-to-network-learn-and-unwind/4700031093973405",
+  "domain": "Enterprise",
+  "tags": [
+   "professional services",
+   "AI",
+   "leaders"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "20 PS leaders and founders from software companies",
+  "description": "Small evening for professional-services leaders at software companies to discuss AI; no keynotes or vendor pitches.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI X GPU Pre Summit: Investors and VC Connect",
+  "date": "2026-12-11",
+  "endDate": null,
+  "time": "16:00-18:30",
+  "venue": null,
+  "area": null,
+  "organizer": "AI X GPU Summit",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-x-gpu-pre-summit-investors-and-vc-connect-connect/4700031097389258",
+  "domain": "AI & ML",
+  "tags": [
+   "AI infrastructure",
+   "GPU",
+   "VC"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Investors, VCs, AI infra founders",
+  "description": "Pre-summit evening connecting investors with founders in AI infrastructure and compute.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Hack Summit 2026: Bring Your Own Keyboard",
+  "date": "2026-12-12",
+  "endDate": null,
+  "time": null,
+  "venue": "Magicball",
+  "area": "HSR Layout",
+  "organizer": "Magicball (partners: Grayscale Ventures, Testsigma; Quad AI)",
+  "platform": "Official site",
+  "url": "https://magicball.dev/hack-summit-2026",
+  "domain": "AI & ML",
+  "tags": [
+   "hack hours",
+   "AI agents",
+   "Claude Code",
+   "supply chain security",
+   "booths"
+  ],
+  "price": "Free (approval required per Hack Hour)",
+  "perks": [],
+  "audience": "AI engineers and founders (1,000+)",
+  "description": "Hands-on AI summit with 20 founder-led one-hour Hack Hours (Bandr, Munder Difflin, Observal, Celesto, SafeDep, Failproof AI, etc.) and 50+ product booths.",
+  "confidence": "high",
+  "seenOn": [
+   "Allevents",
+   "Official site"
+  ]
+ },
+ {
+  "title": "CTO Craft Mixers: Bengaluru",
+  "date": "2026-12-12",
+  "endDate": null,
+  "time": "15:00-17:00",
+  "venue": "Paper & Pie",
+  "area": null,
+  "organizer": "CTO Craft",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/cto-craft-mixers-bengaluru/4700031093959359",
+  "domain": "Dev & Web",
+  "tags": [
+   "CTO",
+   "engineering leadership",
+   "networking"
+  ],
+  "price": "Free",
+  "perks": [],
+  "audience": "CTOs and engineering leaders only",
+  "description": "First CTO Craft Mixer in India: an evening of stories and networking for engineering leaders.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Swift on Server Hands-on Workshop",
+  "date": "2026-12-12",
+  "endDate": null,
+  "time": "09:30-16:30",
+  "venue": null,
+  "area": null,
+  "organizer": null,
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/swift-on-server-hands-on-workshop/4700031100046744",
+  "domain": "Dev & Web",
+  "tags": [
+   "Swift",
+   "server-side",
+   "Raspberry Pi",
+   "workshop"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Swift developers",
+  "description": "Hands-on workshop building and deploying a first Swift on Server binary to a Raspberry Pi or VPS.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "GamePlan: Winter Edition 2026",
+  "date": "2026-12-15",
+  "endDate": null,
+  "time": "09:00-17:00",
+  "venue": "Taj MG Road",
+  "area": "MG Road",
+  "organizer": "DeVC (with 18+ early-stage funds)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/gameplan-winter-edition-2026/4700031093977541",
+  "domain": "Startups",
+  "tags": [
+   "VC",
+   "founders",
+   "1:1 meetings"
+  ],
+  "price": null,
+  "perks": [
+   "Networking lunch"
+  ],
+  "audience": "Seed to Series B founders",
+  "description": "Multi-VC founder-investor conference with double opt-in 30-minute 1:1 meetings.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AGENTIC FRONTIER - Founder's & VC",
+  "date": "2026-12-18",
+  "endDate": null,
+  "time": "18:00-22:00",
+  "venue": null,
+  "area": "Koramangala",
+  "organizer": "HighTable",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/agentic-frontier-founders-and-vc/4700031097389403",
+  "domain": "AI & ML",
+  "tags": [
+   "agentic AI",
+   "founders",
+   "VC"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Founders, VCs, angels, AI builders",
+  "description": "Exclusive gathering on agentic AI for founders, investors and AI builders.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "AI X GPU Pre Summit: AI leaders Connect (December)",
+  "date": "2026-12-18",
+  "endDate": null,
+  "time": "16:00-18:30",
+  "venue": "Dyu Art Cafe",
+  "area": "Koramangala",
+  "organizer": "AI X GPU Summit",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/ai-x-gpu-pre-summit-ai-leaders-connect/4700031093961624",
+  "domain": "AI & ML",
+  "tags": [
+   "AI",
+   "GPU",
+   "pre-summit"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Founders, builders, researchers, decision-makers",
+  "description": "Pre-summit gathering on AI and GPU-powered innovation. Same series name as the 27 Nov event, but this listing is dated 18 Dec.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "16VC Founders Day",
+  "date": "2026-12-19",
+  "endDate": null,
+  "time": "14:00-18:00",
+  "venue": "Awfis Prestige DotCom",
+  "area": null,
+  "organizer": "16VC",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bengaluru/founders-day/4700031086733334",
+  "domain": "Startups",
+  "tags": [
+   "pitching",
+   "founders",
+   "investors"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Founders, investors, operators",
+  "description": "Day of pitching, networking and collaboration for founders and investors.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "3D PrintXpo India 2027",
+  "date": "2027-01-11",
+  "endDate": "2027-01-13",
+  "time": "10:00-17:00",
+  "venue": "KTPO Trade Centre",
+  "area": "Whitefield",
+  "organizer": "Indian Exhibition Services",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/3d-printxpo-india/200030898098759",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "3D printing",
+   "additive manufacturing",
+   "Industry 4.0"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Industry professionals (B2B)",
+  "description": "International exhibition and conference on 3D printing, additive manufacturing and smart manufacturing.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "ICIITCEE 2027 - Intl Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics",
+  "date": "2027-01-21",
+  "endDate": "2027-01-22",
+  "time": null,
+  "venue": "BNM Institute of Technology (BNMIT)",
+  "area": "Banashankari",
+  "organizer": "BNMIT (IEEE technical sponsorship)",
+  "platform": "Allevents",
+  "url": "https://allevents.in/bangalore/international-conference-on-intelligent-and-innovative-technologies-in-computing-electrical-and-elec/3700031098121502",
+  "domain": "AI & ML",
+  "tags": [
+   "IEEE",
+   "academic conference",
+   "computing"
+  ],
+  "price": null,
+  "perks": [],
+  "audience": "Researchers and academics",
+  "description": "IEEE-recognized academic conference on intelligent technologies in computing, electrical and electronics engineering.",
+  "confidence": "medium",
+  "seenOn": [
+   "Allevents"
+  ]
+ },
+ {
+  "title": "Eureka '26 - National Project Expo",
+  "date": "2026-11-28",
+  "endDate": null,
+  "time": null,
+  "venue": "R.V. College of Engineering (RVCE)",
+  "area": "Mysore Road",
+  "organizer": "R.V. College of Engineering (RVCE)",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/eureka-26-national-project-expo-rv-college-of-engineering-rvce-bangalore-1788880",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "project expo",
+   "robotics",
+   "IoT",
+   "embedded",
+   "medtech"
+  ],
+  "price": null,
+  "perks": [
+   "Prizes ₹7,000 / ₹5,000 / ₹3,000 + goodies"
+  ],
+  "audience": "Students (teams of 1-4)",
+  "description": "Offline project expo at RVCE on robotics, digital twins, energy systems, medtech and embedded/IoT; registration closes 26 Nov.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "CircuitX'26 - 16-Hour Hardware Hackathon",
+  "date": "2026-12-19",
+  "endDate": "2026-12-20",
+  "time": null,
+  "venue": "APJ Abdul Kalam Lab, BMS Institute of Technology and Management (BMSITM)",
+  "area": "Yelahanka",
+  "organizer": "IEEE PES & CASS Student Branch Chapters, BMSITM",
+  "platform": "Unstop",
+  "url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "hardware hackathon",
+   "embedded",
+   "sustainability",
+   "IEEE"
+  ],
+  "price": "Round 1 free; finale ₹1,000/team (₹750 with IEEE CAS/PES member)",
+  "perks": [
+   "₹40,000 prize pool"
+  ],
+  "audience": "Students, teams of 2-4",
+  "description": "Overnight offline hardware hackathon for shortlisted teams (PPT round 20-30 Nov) on sustainable energy and embedded intelligence.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "Tech Auction (RoboFiesta, RVITM)",
+  "date": "2026-12-10",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RoboFiesta, RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/tech-auction-robofiesta-rv-institute-of-technology-and-management-karnataka-1776106",
+  "domain": "Dev & Web",
+  "tags": [
+   "coding",
+   "tech stack auction",
+   "build"
+  ],
+  "price": "₹200",
+  "perks": [
+   "₹4,000 prize pool"
+  ],
+  "audience": "Students",
+  "description": "Teams bid demi-cash for tech stacks in an auction round, then build with what they win.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "Bug Squash (RoboFiesta, RVITM)",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RoboFiesta, RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/bug-squash-robofiesta-rv-institute-of-technology-and-management-karnataka-1775209",
+  "domain": "Dev & Web",
+  "tags": [
+   "debugging",
+   "coding competition"
+  ],
+  "price": "₹100",
+  "perks": [
+   "₹3,500 prize pool"
+  ],
+  "audience": "Students, teams of 2",
+  "description": "Three-round debugging competition to fix bugs in code snippets against the clock.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "Build Your Web (RoboFiesta, RVITM)",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RoboFiesta, RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/build-your-web-robofiesta-rv-institute-of-technology-and-management-karnataka-1775266",
+  "domain": "Dev & Web",
+  "tags": [
+   "web development",
+   "hackathon",
+   "full-stack"
+  ],
+  "price": "₹300",
+  "perks": [
+   "₹5,000 prize pool"
+  ],
+  "audience": "Students",
+  "description": "Five-hour on-the-spot themed web development challenge with GitHub-tracked commits.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "Robo Sumo (RoboFiesta, RVITM)",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RoboFiesta, RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/robo-sumo-robofiesta-rv-institute-of-technology-and-management-karnataka-1775115",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "robotics",
+   "RC robots"
+  ],
+  "price": "₹400",
+  "perks": [
+   "₹6,000 prize pool"
+  ],
+  "audience": "Students",
+  "description": "1v1 RC robot sumo battles in a ring.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ },
+ {
+  "title": "Robo Race (RoboFiesta, RVITM)",
+  "date": "2026-12-09",
+  "endDate": null,
+  "time": null,
+  "venue": "RV Institute of Technology and Management (RVITM)",
+  "area": "J. P. Nagar",
+  "organizer": "RoboFiesta, RV Institute of Technology and Management",
+  "platform": "Unstop",
+  "url": "https://unstop.com/competitions/robo-race-robofiesta-rv-institute-of-technology-and-management-karnataka-1771419",
+  "domain": "Hardware & IoT",
+  "tags": [
+   "robotics",
+   "robot racing"
+  ],
+  "price": "₹400",
+  "perks": [
+   "₹8,000 prize pool"
+  ],
+  "audience": "Students",
+  "description": "Robotic car race on an obstacle track.",
+  "confidence": "high",
+  "seenOn": [
+   "Unstop"
+  ]
+ }
+]

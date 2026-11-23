@@ -1,0 +1,29 @@
+{
+  "_note": "Known events whose date changed on the registration page. Applied by merge.py before dedupe. Key = cleaned registration URL.",
+  "https://luma.com/1jwzib82": {
+    "date": "2026-12-09"
+  },
+  "https://luma.com/6oidclnf": {
+    "date": "2026-12-18",
+    "venue": "Dyu Art Cafe",
+    "area": "Koramangala"
+  },
+  "https://luma.com/232qy3xn": {
+    "date": "2027-02-06"
+  },
+  "https://luma.com/4w6tmg2y": {
+    "date": "2027-03-06"
+  },
+  "https://bengaluru2go.in/event/the-next-beat-music-in-the-age-of-ai-futures-thinking-worksh-20270109-2a71f1": {
+    "date": "2026-12-05"
+  },
+  "https://techsnap.in/events/bangalore-product-mixer-4-product-reactor-4bbaf412": {
+    "date": "2027-02-06"
+  },
+  "https://techsnap.in/events/bangalore-product-mixer-5-by-product-reactor-ed7921f7": {
+    "date": "2027-03-06"
+  },
+  "https://allevents.in/bangalore/protatva-264th-national-level-intercollegiate-project-exhibition/80007604477428": {
+    "date": "2026-12-03"
+  }
+}

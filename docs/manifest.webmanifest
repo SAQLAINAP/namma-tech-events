@@ -1,7 +1,7 @@
 {
   "name": "Namma Tech Events",
   "short_name": "Tech Events BLR",
-  "description": "276 upcoming tech events in Bengaluru: browse by domain, registration platform, date and perks, with registration links for every event.",
+  "description": "250 upcoming tech events in Bengaluru: browse by domain, registration platform, date and perks, with registration links for every event.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
