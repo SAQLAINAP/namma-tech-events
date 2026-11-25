@@ -2,7 +2,7 @@ import json, re, sys, os
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode, unquote
 D = os.path.join(os.path.dirname(os.path.abspath(__file__)), "crawl")
 HTML = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "index.html")
-files = ["v2_conferences.json", "v2_ticketing.json", "v2_luma_meetup.json", "v2_communities.json", "v2_aggregators.json", "events_luma_meetup.json", "events_ticketing.json", "events_conferences.json", "events_aggregators.json", "events_communities.json", "events_vendors.json", "v3_luma_meetup.json", "v3_ticketing.json", "v3_aggregators.json"]
+files = ["v2_conferences.json", "v2_ticketing.json", "v2_luma_meetup.json", "v2_communities.json", "v2_aggregators.json", "events_luma_meetup.json", "events_ticketing.json", "events_conferences.json", "events_aggregators.json", "events_communities.json", "events_vendors.json", "v3_luma_meetup.json", "v3_ticketing.json", "v3_aggregators.json", "v4_vendor_manual.json", "v4_vendors_data.json", "v4_vendors_security.json"]
 PLATS = {"Bengaluru2Go","Techsnap","Jamao","Kure-Cal","Luma","Meetup","Eventbrite","Konfhub","Townscript","Allevents","Devfolio","Unstop","HasGeek","Commudle","GDG Community","Official site","Other"}
 DOMS = {"AI & ML","Cloud & DevOps","Data","Dev & Web","Security","Web3","Product & Design","Startups","Hardware & IoT","Enterprise"}
 
@@ -40,7 +40,7 @@ for f in files:
         if u in CORR: e.update(CORR[u])
         e["platform"] = plat_from_url(u, e.get("platform"))
         if e.get("domain") not in DOMS: e["domain"] = "Dev & Web"
-        if (e.get("endDate") or e["date"]) < "2026-11-23" or e["date"] > "2027-03-31": continue
+        if (e.get("endDate") or e["date"]) < "2026-11-26" or e["date"] > "2027-03-31": continue
         e = {k: e.get(k) for k in ["title","date","endDate","time","venue","area","organizer","platform","url","domain","tags","price","perks","audience","description","confidence","seenOn"]}
         e["tags"] = [str(t) for t in (e["tags"] or [])][:8]
         e["perks"] = [str(t) for t in (e["perks"] or [])][:6]

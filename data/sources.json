@@ -652,6 +652,126 @@
    "group": "Company event pages",
    "slice": "conferences",
    "lastFetched": "2026-11-18"
+  },
+  {
+   "name": "Snowflake User Groups - Bengaluru chapter",
+   "url": "https://usergroups.snowflake.com/bengaluru/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Databricks User Groups - Bengaluru chapter",
+   "url": "https://usergroups.databricks.com/bengaluru-databricks-user-group/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "UiPath Community - Bengaluru chapter",
+   "url": "https://community.uipath.com/bengaluru/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Cockroach Labs events (lists city per event)",
+   "url": "https://www.cockroachlabs.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Grafana ObservabilityCON on the Road (city pages)",
+   "url": "https://grafana.com/events/observabilitycon-on-the-road/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "BrowserStack events (StackConnect city tour)",
+   "url": "https://www.browserstack.com/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Microsoft Reactor (search=bengaluru, in-person)",
+   "url": "https://developer.microsoft.com/en-us/reactor/?search=bengaluru",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "AIM discover events (vendor-organised summits)",
+   "url": "https://aim.media/discover-events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "YugabyteDB events (data-location per event)",
+   "url": "https://www.yugabyte.com/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Temporal events (city per event)",
+   "url": "https://temporal.io/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Redis events sitemap (city in slug)",
+   "url": "https://redis.io/sitemap/events.xml",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "ClickHouse events (city in slug)",
+   "url": "https://clickhouse.com/company/events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Rubrik Huddle for Resilience events",
+   "url": "https://www.rubrik.com/community/h4r-events",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Confluent Data Streaming World Tour (city list)",
+   "url": "https://events.confluent.io/dswt2026",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Cloudflare field marketing events (India roadshows)",
+   "url": "https://fieldmarketing.www.cloudflare.com/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
   }
  ]
 }

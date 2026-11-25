@@ -1,0 +1,17 @@
+[
+ {"name":"Snowflake User Groups - Bengaluru chapter","url":"https://usergroups.snowflake.com/bengaluru/"},
+ {"name":"Databricks User Groups - Bengaluru chapter","url":"https://usergroups.databricks.com/bengaluru-databricks-user-group/"},
+ {"name":"UiPath Community - Bengaluru chapter","url":"https://community.uipath.com/bengaluru/"},
+ {"name":"Cockroach Labs events (lists city per event)","url":"https://www.cockroachlabs.com/events/"},
+ {"name":"Grafana ObservabilityCON on the Road (city pages)","url":"https://grafana.com/events/observabilitycon-on-the-road/"},
+ {"name":"BrowserStack events (StackConnect city tour)","url":"https://www.browserstack.com/events"},
+ {"name":"Microsoft Reactor (search=bengaluru, in-person)","url":"https://developer.microsoft.com/en-us/reactor/?search=bengaluru"},
+ {"name":"AIM discover events (vendor-organised summits)","url":"https://aim.media/discover-events"},
+ {"name":"YugabyteDB events (data-location per event)","url":"https://www.yugabyte.com/events/"},
+ {"name":"Temporal events (city per event)","url":"https://temporal.io/events"},
+ {"name":"Redis events sitemap (city in slug)","url":"https://redis.io/sitemap/events.xml"},
+ {"name":"ClickHouse events (city in slug)","url":"https://clickhouse.com/company/events"},
+ {"name":"Rubrik Huddle for Resilience events","url":"https://www.rubrik.com/community/h4r-events"},
+ {"name":"Confluent Data Streaming World Tour (city list)","url":"https://events.confluent.io/dswt2026"},
+ {"name":"Cloudflare field marketing events (India roadshows)","url":"https://fieldmarketing.www.cloudflare.com/"}
+]
