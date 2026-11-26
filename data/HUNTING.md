@@ -147,6 +147,14 @@ The 6 data and AI events this sweep found came from these routes, in order of yi
 
 Searching the hosted platforms by name (`site:splashthat.com`, `site:goldcast.io`) found nothing this round.
 
+The security and enterprise sweep (about 150 company sitemaps) found 4 more events: Infoblox, Sonar, Atlassian Team on Tour and CISO6. It reached different conclusions:
+
+6. **Bulk sitemap scans pay off when you run many at once.** Filtering every company's sitemap for `bangalore|bengaluru|blr` found Sonar's workshop, Infoblox, Cockroach, Wiz and Redis within minutes. Many of their events pages are drawn by JavaScript and look empty to a plain fetch, but the sitemap still lists the event pages. The two sweeps disagree because sitemaps are slow to add new pages but cheap to scan in bulk, so use them across many companies.
+7. **Bevy community sites have an open search.** `/api/search/?result_types=chapter&q=bangalore` returns the Bengaluru chapter. Each event page's structured data then gives the date and venue. This covered UiPath, Snowflake, Splunk, Tableau, Salesforce, MuleSoft, Adobe and Atlassian ACE.
+8. **The web search tool ignores `OR`, `site:` and `inurl:`.** The search queries above work in Google, but through the tool, plain descriptive phrasing did better, for example "company/events Bengaluru December 2026 in-person APJ".
+9. **Some pages only show real content in a browser.** Infoblox sent a placeholder page to curl; the date, venue and agenda appeared only in the browser.
+10. **Big security companies hold their India stops between January and April.** Palo Alto, Zscaler, Commvault, Veeam and Nutanix had nothing open in Nov–Dec. Re-check their event pages in January.
+
 Many companies (Databricks, Confluent, Elastic, Redis, GitLab, Cloudflare and others) had no Bengaluru event in the window; their last ones were earlier in 2026. That fits assumption 3: they hold one or two big city stops a year, so check them every fortnight rather than expecting a steady flow.
 
 ## What doesn't work, and how to handle it

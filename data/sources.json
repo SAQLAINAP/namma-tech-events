@@ -772,6 +772,134 @@
    "group": "Company event pages",
    "slice": "vendors",
    "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Infoblox Exchange APJ",
+   "url": "https://www.infoblox.com/exchange/apj/bengaluru/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Sonar events",
+   "url": "https://www.sonarsource.com/company/events/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Atlassian events (Team on Tour)",
+   "url": "https://events.atlassian.com/teamontour-bengaluru",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "CISO6 Bengaluru",
+   "url": "https://www.ciso6.com/bengaluru/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Wiz events (sitemap has city slugs)",
+   "url": "https://www.wiz.io/sitemap.xml",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "ClickHouse events (sitemap, APJ-Bengaluru slugs)",
+   "url": "https://clickhouse.com/sitemap.xml",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Redis events",
+   "url": "https://redis.io/sitemap.xml",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Splunk User Group Bengaluru (Bevy)",
+   "url": "https://usergroups.splunk.com/bengaluru-splunk-user-group/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Google Cloud Security User Group Bangalore (Bevy)",
+   "url": "https://usergroups.security.googlecloudcommunity.com/bangalore-user-group/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Atlassian Community Bangalore (Bevy)",
+   "url": "https://ace.atlassian.com/bangalore/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Salesforce Trailblazer groups Bengaluru (Bevy)",
+   "url": "https://trailblazercommunitygroups.com/salesforce-developer-group-bengaluru-india/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Tableau User Group Bengaluru (Bevy)",
+   "url": "https://usergroups.tableau.com/bengaluru-tableau-user-group/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Adobe User Groups India (Bevy)",
+   "url": "https://usergroups.adobe.com/experience-platform-apps-india-chapter/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Palo Alto Networks Ignite on Tour (Swoogo)",
+   "url": "https://paloaltonetworks.swoogo.com/igniteontour-bengaluru-2026/",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Commvault SHIFT India registrations",
+   "url": "https://discover.commvault.com/event-shift-live-bangalore-registration.html",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
+  },
+  {
+   "name": "Zscaler India event pages",
+   "url": "https://info.zscaler.com/zenith-live-encore-bengaluru-2026",
+   "cadence": "fortnightly",
+   "group": "Company event pages",
+   "slice": "vendors",
+   "lastFetched": "2026-11-26"
   }
  ]
 }
